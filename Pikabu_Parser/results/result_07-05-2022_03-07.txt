@@ -1,0 +1,4741 @@
+{
+  "story_id": "9087095",
+  "user": "Zloizevs",
+  "user_id": "718932",
+  "user_link": "https://pikabu.ru/@Zloizevs",
+  "title": "Налог",
+  "link": "https://pikabu.ru/story/nalog_9087095",
+  "comments count": "1218",
+  "views count": "252782",
+  "downloads": "409",
+  "rating": "14278",
+  "creation_time": "2022-05-06T06:53:03+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/3/1651809120126863366.jpg",
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/3/1651809117139191740.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Юмор",
+    "Скриншот",
+    "Налоги",
+    "Яжмать",
+    "Вконтакте"
+  ]
+}
+{
+  "story_id": "9088855",
+  "user": "Deathman",
+  "user_id": "261241",
+  "user_link": "https://pikabu.ru/@Deathman",
+  "title": "Это Жан-Батист Кемпф, создатель медиаплеера VLC. Он отказался от десятков миллионов долларов, чтобы на VLC не было рекламы. Спасибо, Жан!",
+  "link": "https://pikabu.ru/story/yeto_zhanbatist_kempf_sozdatel_mediapleera_vlc_on_otkazalsya_ot_desyatkov_millionov_dollarov_chtobyi_na_vlc_ne_byilo_reklamyi_spasibo_zhan_9088855",
+  "comments count": "200",
+  "views count": "79039",
+  "downloads": "75",
+  "rating": "6997",
+  "creation_time": "2022-05-06T18:19:55+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/2022/05/06/9/1651850322227521868.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Vlc",
+    "Медиаплеер"
+  ]
+}
+{
+  "story_id": "9086819",
+  "user": "IhNiht",
+  "user_id": "4000248",
+  "user_link": "https://pikabu.ru/@IhNiht",
+  "title": "Это другое!",
+  "link": "https://pikabu.ru/story/yeto_drugoe_9086819",
+  "comments count": "538",
+  "views count": "166044",
+  "downloads": "200",
+  "rating": "6663",
+  "creation_time": "2022-05-06T01:02:57+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "- Представляешь, против оппозиционного блогера возбудили уголовное дело о государственной измене!- Нелюди! Позор путинскому режиму!- Да нет, я говорю про Шария!- А-а-а, ну и правильно сделали, нехер поливать грязью свою страну!"
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/1/1651788140118920507.png"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Политика",
+    "Двойные стандарты",
+    "Украина",
+    "Оппозиция",
+    "Шарий"
+  ]
+}
+{
+  "story_id": "9087256",
+  "user": "Deathman",
+  "user_id": "261241",
+  "user_link": "https://pikabu.ru/@Deathman",
+  "title": "Оу, а можно погладить?",
+  "link": "https://pikabu.ru/story/ou_a_mozhno_pogladit_9087256",
+  "comments count": "103",
+  "views count": "166184",
+  "downloads": "521",
+  "rating": "6391",
+  "creation_time": "2022-05-06T08:29:46+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651814894292445674_460x812.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Полиция",
+    "Юмор",
+    "Видео",
+    "Вертикальное видео",
+    "Лошади",
+    "Конная полиция"
+  ]
+}
+{
+  "story_id": "9087119",
+  "user": "Bladerunner42",
+  "user_id": "934062",
+  "user_link": "https://pikabu.ru/@Bladerunner42",
+  "title": "Однажды я наблюдал процесс воспитания",
+  "link": "https://pikabu.ru/story/odnazhdyi_ya_nablyudal_protsess_vospitaniya_9087119",
+  "comments count": "111",
+  "views count": "155440",
+  "downloads": "82",
+  "rating": "5781",
+  "creation_time": "2022-05-06T07:09:22+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Раннее утро. Спешу на работу.У самого метро мне встречается замечательная пара: отец и сын.Папа высокий. Среднего возраста. Вид предельно суровый: широкие плечи, квадратная нижняя челюсть, стрижка под ноль. Мрачный взгляд исподлобья. Треники с обвислыми коленками, кроссовки, рыжая куртка из кожзама. Подсознательно хочется обойти человека стороной.Мальчику на вид лет 5.-... Вадик, - на ходу терпеливо втолковывает папа сыну, - нельзя на всех подряд залупаться. С людьми надо быть дружелюбным..."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Авторский рассказ",
+    "Мат",
+    "Воспитание",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9087527",
+  "user": "SunBroS",
+  "user_id": "1481044",
+  "user_link": "https://pikabu.ru/@SunBroS",
+  "title": "Ответ на пост «Боль»",
+  "link": "https://pikabu.ru/story/otvet_na_post_bol_9087527",
+  "comments count": "366",
+  "views count": "134918",
+  "downloads": "14513",
+  "rating": "5749",
+  "creation_time": "2022-05-06T10:10:35+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Для тех, кому за 25:Очень понравился комплекс утренних упражнений, спустя неделю забыл что такое больная голова и поясница, самое главное - делать каждый день и не лениться. Чувствуешь себя также намного бодрее в течение дня.Ps. Не реклама"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://www.youtube.com/embed/JJYZd6IabFs"
+      ]
+    }
+  ],
+  "tags": [
+    "Шея",
+    "Боль",
+    "Зарядка",
+    "Здоровье",
+    "Видео",
+    "YouTube",
+    "Ответ на пост"
+  ]
+}
+{
+  "story_id": "9086960",
+  "user": "Letos666",
+  "user_id": "2268272",
+  "user_link": "https://pikabu.ru/@Letos666",
+  "title": "Продолжение поста «Просьба о поддержке»",
+  "link": "https://pikabu.ru/story/prodolzhenie_posta_prosba_o_podderzhke_9086960",
+  "comments count": "656",
+  "views count": "230986",
+  "downloads": "89",
+  "rating": "5574",
+  "creation_time": "2022-05-06T04:09:27+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Здравствуй, пикабу.Сегодня утром Катя умерла. Спасибо всем за поддержку."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Больница",
+    "Родители и дети",
+    "Ответ на пост",
+    "Текст",
+    "Негатив",
+    "Смерть",
+    "Некролог",
+    "Болезнь",
+    "Без рейтинга"
+  ]
+}
+{
+  "story_id": "9086788",
+  "user": "Nafig7",
+  "user_id": "2513654",
+  "user_link": "https://pikabu.ru/@Nafig7",
+  "title": "Мама не обманет",
+  "link": "https://pikabu.ru/story/mama_ne_obmanet_9086788",
+  "comments count": "138",
+  "views count": "142100",
+  "downloads": "191",
+  "rating": "5355",
+  "creation_time": "2022-05-06T00:38:15+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Картинка с текстом",
+    "Юмор",
+    "Дети"
+  ]
+}
+{
+  "story_id": "9087263",
+  "user": "NeBudite",
+  "user_id": "3633699",
+  "user_link": "https://pikabu.ru/@NeBudite",
+  "title": "Немного позитива",
+  "link": "https://pikabu.ru/story/nemnogo_pozitiva_9087263",
+  "comments count": "121",
+  "views count": "136230",
+  "downloads": "26",
+  "rating": "5345",
+  "creation_time": "2022-05-06T08:32:33+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "С утра зарядил позитивом меня водитель ПАЗика. Кондуктора почему-то не было и деньги принимал водитель за проезд. Я сидел рядом и предложил-давайте я вместо кондуктора побуду,чтобы не отвлекались от дороги. До конечной рассчитывал пассажиров,отдавал сдачу) При выходе водитель мне протягивает 200 рублей-держи зарплату! И улыбается. Ну а че, взял конечно.Инвестировал в себя,купил шаурму."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Неожиданно",
+    "Позитив",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9088216",
+  "user": "Muinaru",
+  "user_id": "3730305",
+  "user_link": "https://pikabu.ru/@Muinaru",
+  "title": "Но он ведь в тюрьме сидел...",
+  "link": "https://pikabu.ru/story/no_on_ved_v_tyurme_sidel_9088216",
+  "comments count": "573",
+  "views count": "117442",
+  "downloads": "62",
+  "rating": "5320",
+  "creation_time": "2022-05-06T14:23:30+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9086862",
+  "user": "kr310881bmv",
+  "user_id": "2542529",
+  "user_link": "https://pikabu.ru/@kr310881bmv",
+  "title": "Выпускайте КРАКЕНА!!!",
+  "link": "https://pikabu.ru/story/vyipuskayte_krakena_9086862",
+  "comments count": "205",
+  "views count": "149861",
+  "downloads": "354",
+  "rating": "4967",
+  "creation_time": "2022-05-06T01:42:34+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651790470250669807_720x1280.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Кракен",
+    "Шоколад",
+    "Amaury Guichon",
+    "Кулинария",
+    "Вертикальное видео",
+    "Видео"
+  ]
+}
+{
+  "story_id": "9087694",
+  "user": "YuraGagarin1337",
+  "user_id": "1916248",
+  "user_link": "https://pikabu.ru/@YuraGagarin1337",
+  "title": "Belissimo",
+  "link": "https://pikabu.ru/story/belissimo_9087694",
+  "comments count": "219",
+  "views count": "151512",
+  "downloads": "174",
+  "rating": "4919",
+  "creation_time": "2022-05-06T11:05:41+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/6/1651824265227569652.png"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Мемы",
+    "Юмор",
+    "Картинка с текстом",
+    "Италия",
+    "Спагетти"
+  ]
+}
+{
+  "story_id": "9086857",
+  "user": "Litol",
+  "user_id": "3537792",
+  "user_link": "https://pikabu.ru/@Litol",
+  "title": "Зачем за воздух платить?",
+  "link": "https://pikabu.ru/story/zachem_za_vozdukh_platit_9086857",
+  "comments count": "411",
+  "views count": "174760",
+  "downloads": "41",
+  "rating": "4660",
+  "creation_time": "2022-05-06T01:33:40+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Покупал я давеча в маркете Арахис развесной.\nКак положенно, оторвал пакет, насыпал, ЗАВЯЗАЛ - это важно, взвесил\nИ вспомнилось мне.\n19 лет назад, когда я был молод и наивен, женился я и приехали мы с молодой супругой к её родителям в Москву.\nДля меня это было первое знакомство со столицей нашей Родины в общем и с супермаркетами в частности.\nАшан.\nОгромный гипермаркет.\nХодил и удивлялся.\nТеперь суть истории.\nБывшая (уже) тёща что-то там купила развесное. Я, как любимый зять, завязал пакет и положил в тележку. Логично?\nНет.\nТёща с бывшей супругой объяснили мне, глупому, что в пакете , когда его завязывают,остаётся воздух. И на таких глупцах , как я, наживаются хозяева магазинов. Нужно взвесить пакет незавязанным. Так в нём нет воздуха и только потом завязать и в корзину.\nБред и выдумка, скажете вы?\nА я с этим жил."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Глупость",
+    "Магазин",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9087050",
+  "user": "who.user",
+  "user_id": "3889058",
+  "user_link": "https://pikabu.ru/@who.user",
+  "title": "Знакомое лицо",
+  "link": "https://pikabu.ru/story/znakomoe_litso_9087050",
+  "comments count": "152",
+  "views count": "185333",
+  "downloads": "248",
+  "rating": "4369",
+  "creation_time": "2022-05-06T06:07:26+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Илон Маск: Китай никогда не смог бы скопировать Теслу!Китай:"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651806227248842007_406x720.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Илон Маск",
+    "Китай",
+    "Как тебе такое Илон Маск",
+    "Tesla",
+    "Видео",
+    "Вертикальное видео",
+    "Копирование"
+  ]
+}
+{
+  "story_id": "9087244",
+  "user": "BAJANNN",
+  "user_id": "2442067",
+  "user_link": "https://pikabu.ru/@BAJANNN",
+  "title": "Любимая вещь",
+  "link": "https://pikabu.ru/story/lyubimaya_veshch_9087244",
+  "comments count": "209",
+  "views count": "157632",
+  "downloads": "84",
+  "rating": "4299",
+  "creation_time": "2022-05-06T08:24:40+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/4/165181459019846044.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Тоби Магуайр",
+    "Актеры и актрисы",
+    "Знаменитости",
+    "Футболка",
+    "Вещи",
+    "Было-стало",
+    "Интервью",
+    "Картинка с текстом",
+    "2000-е",
+    "Из сети",
+    "Юмор"
+  ]
+}
+{
+  "story_id": "9086977",
+  "user": "redwire",
+  "user_id": "2037386",
+  "user_link": "https://pikabu.ru/@redwire",
+  "title": "Мне одному кажется?",
+  "link": "https://pikabu.ru/story/mne_odnomu_kazhetsya_9086977",
+  "comments count": "161",
+  "views count": "98455",
+  "downloads": "106",
+  "rating": "4199",
+  "creation_time": "2022-05-06T04:36:38+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Походу в госдепе нагло нарушили авторские права и все-таки спёрли наш бренд. Правда чуток адаптировали через нетфликс"
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/2/1651800901145532895.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "США",
+    "Политика",
+    "Показалось",
+    "Домовенок Кузя",
+    "Юмор",
+    "Мультфильмы"
+  ]
+}
+{
+  "story_id": "9087451",
+  "user": "FedorDuke",
+  "user_id": "4026012",
+  "user_link": "https://pikabu.ru/@FedorDuke",
+  "title": "Втащил грабителю",
+  "link": "https://pikabu.ru/story/vtashchil_grabitelyu_9087451",
+  "comments count": "213",
+  "views count": "111527",
+  "downloads": "61",
+  "rating": "4050",
+  "creation_time": "2022-05-06T09:40:35+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "В Южно-Сахалинске грабитель попытался увести сумочку у женщины, гуляющей с ребёнком, и тут же поплатился за это.Его с одного удара уронил случайный прохожий, и на всякий случай втащил еще несколько раз.Грабителем оказался 32-летний сахалинец. Он уже во всем признался и сейчас содержится под стражей.отсюда"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651819057220767764_1920x1080.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Негатив",
+    "Грабители",
+    "Происшествие",
+    "Герои",
+    "Нападение",
+    "Спасение",
+    "Видео",
+    "Без звука"
+  ]
+}
+{
+  "story_id": "9087313",
+  "user": "Nukasuka",
+  "user_id": "387899",
+  "user_link": "https://pikabu.ru/@Nukasuka",
+  "title": "Был... Что??",
+  "link": "https://pikabu.ru/story/byil_chto_9087313",
+  "comments count": "168",
+  "views count": "162899",
+  "downloads": "187",
+  "rating": "3992",
+  "creation_time": "2022-05-06T08:50:20+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/4/1651816121240126618.png"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Школа",
+    "Рокк ебол",
+    "Смешные надписи"
+  ]
+}
+{
+  "story_id": "9087138",
+  "user": "LastArgument",
+  "user_id": "1168895",
+  "user_link": "https://pikabu.ru/@LastArgument",
+  "title": "Ответ на пост «Как уволить беременную?»",
+  "link": "https://pikabu.ru/story/otvet_na_post_kak_uvolit_beremennuyu_9087138",
+  "comments count": "201",
+  "views count": "130288",
+  "downloads": "39",
+  "rating": "3836",
+  "creation_time": "2022-05-06T07:24:44+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Жена ушла в декрет 7 месяцев как. Директор забухал, просто психанув, собрал чемоданы и растворился в море алкоголя. Из-за этого до сих пор они не передали пакет документов в ФСС на выплаты декретных. Говорят электронного ключа нет и подписантов тоже, дабы ножками документы донести. Обращались в трудовую, их штрафанули на 30 тысяч, результата 0. Сейчас делом занимается прокуратура, после встречи с помощником прокурора, они провели собрание учредителей и назначили управляющей компанией вместо директора компанию другого подразделения. Но и это не помогло, пытался с новым руководством связаться и урегулировать ситуацию, все бросают трубки и отправляют на почту. Сейчас прокуратура пересылает доки в налоговую на проверку и говорят что будут блокировать счета, т.к. по другому они на контакт не идут, да и другие косяки имеются. Долбоëбы..."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Юристы",
+    "Закон",
+    "Консультация",
+    "Увольнение",
+    "Незаконное увольнение",
+    "Зарплата",
+    "Несправедливость",
+    "Пенсия",
+    "Беременность",
+    "Декрет",
+    "Работодатель",
+    "Ответ на пост",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9087522",
+  "user": "gogantus",
+  "user_id": "2258057",
+  "user_link": "https://pikabu.ru/@gogantus",
+  "title": "Немного больше...",
+  "link": "https://pikabu.ru/story/nemnogo_bolshe_9087522",
+  "comments count": "42",
+  "views count": "105695",
+  "downloads": "83",
+  "rating": "3709",
+  "creation_time": "2022-05-06T10:08:43+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9087708",
+  "user": "bigblackhole",
+  "user_id": "1051649",
+  "user_link": "https://pikabu.ru/@bigblackhole",
+  "title": "Как обращаться к собачникам",
+  "link": "https://pikabu.ru/story/kak_obrashchatsya_k_sobachnikam_9087708",
+  "comments count": "73",
+  "views count": "101443",
+  "downloads": "224",
+  "rating": "3624",
+  "creation_time": "2022-05-06T11:10:57+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/2022/05/06/6/1651824482114657872.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Юмор",
+    "Twitter",
+    "Скриншот",
+    "Собака",
+    "Повтор"
+  ]
+}
+{
+  "story_id": "9087115",
+  "user": "ruslanzrr",
+  "user_id": "3988285",
+  "user_link": "https://pikabu.ru/@ruslanzrr",
+  "title": "Базар по французски...",
+  "link": "https://pikabu.ru/story/bazar_po_frantsuzski_9087115",
+  "comments count": "308",
+  "views count": "135227",
+  "downloads": "286",
+  "rating": "3560",
+  "creation_time": "2022-05-06T07:07:43+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "В Ташкенте продавщица лепёшек, которая свободно говорит на французском языке, стала героиней соцсетей."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651809907263053417_540x960.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Юмор",
+    "Французский язык",
+    "Базар",
+    "Ташкент",
+    "Вертикальное видео",
+    "Забавное",
+    "Видео"
+  ]
+}
+{
+  "story_id": "9087208",
+  "user": "mkmkzn",
+  "user_id": "2388783",
+  "user_link": "https://pikabu.ru/@mkmkzn",
+  "title": "Маргулис о Макаревиче",
+  "link": "https://pikabu.ru/story/margulis_o_makareviche_9087208",
+  "comments count": "266",
+  "views count": "91831",
+  "downloads": "784",
+  "rating": "3531",
+  "creation_time": "2022-05-06T08:04:21+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "И ведь все верно. Удивляет, что опоненты этого не понимают. Видео 6 лет назад появилось. Но актуально до сих пор."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://www.youtube.com/embed/AJQiXvKorEs"
+      ]
+    }
+  ],
+  "tags": [
+    "Певцы",
+    "Политика",
+    "YouTube",
+    "Видео",
+    "Евгений Маргулис",
+    "Андрей Макаревич"
+  ]
+}
+{
+  "story_id": "9086856",
+  "user": "alex.omen",
+  "user_id": "3568600",
+  "user_link": "https://pikabu.ru/@alex.omen",
+  "title": "Выходные",
+  "link": "https://pikabu.ru/story/vyikhodnyie_9086856",
+  "comments count": "155",
+  "views count": "161643",
+  "downloads": "215",
+  "rating": "3424",
+  "creation_time": "2022-05-06T01:31:53+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/2022/05/06/1/1651789655176490620.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Алкоголь",
+    "Выходные",
+    "Синий кит",
+    "Куратор",
+    "Виски",
+    "Акции",
+    "Картинка с текстом"
+  ]
+}
+{
+  "story_id": "9087798",
+  "user": "sergeylutskan",
+  "user_id": "618221",
+  "user_link": "https://pikabu.ru/@sergeylutskan",
+  "title": "Станет человеком года",
+  "link": "https://pikabu.ru/story/stanet_chelovekom_goda_9087798",
+  "comments count": "148",
+  "views count": "116672",
+  "downloads": "36",
+  "rating": "3441",
+  "creation_time": "2022-05-06T11:44:00+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Источник: https://t.me/digivisor"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Илон Маск",
+    "Twitter",
+    "Мемы",
+    "Картинка с текстом",
+    "Юмор",
+    "Конфеты",
+    "Конфеты Коровка",
+    "Fake News"
+  ]
+}
+{
+  "story_id": "9088260",
+  "user": "Evgenlow",
+  "user_id": "3037030",
+  "user_link": "https://pikabu.ru/@Evgenlow",
+  "title": "Совет моего отца",
+  "link": "https://pikabu.ru/story/sovet_moego_ottsa_9088260",
+  "comments count": "108",
+  "views count": "74115",
+  "downloads": "513",
+  "rating": "3495",
+  "creation_time": "2022-05-06T14:40:49+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Мой отец дал мне такой совет, когда воспитывал меня мелкого. Если человек сделал плохо - осуди его поступок, а если хорошо - похвали самого человека. Потому что осуждая поступок ты даёшь человеку возможность исправиться, а если будешь осуждать самого человека, то ему ничего не останется, как быть таким же дальше. А хваля самого человека за хороший поступок ты помогаешь ему поверить в себя и продолжать дальше поступать правильно. Считаю один из мудрейших советов, которые я когда-либо слышал. Уже 22 года, как он умер, но премудрейший и предобрейший был человек."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Психология",
+    "Совет",
+    "Правильный подход",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9088695",
+  "user": "JohnVanGarrett",
+  "user_id": "1032130",
+  "user_link": "https://pikabu.ru/@JohnVanGarrett",
+  "title": "Потерялся особый парень в московском метро. Помогите найти! [Нашелся]",
+  "link": "https://pikabu.ru/story/poteryalsya_osobyiy_paren_v_moskovskom_metro_pomogite_nayti_nashelsya_9088695",
+  "comments count": "160",
+  "views count": "56378",
+  "downloads": "25",
+  "rating": "3322",
+  "creation_time": "2022-05-06T17:29:26+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Без рейтинга.Ребята, помогите найти молодого человека. По стечению обстоятельств потерялся в метро. У молодого человека синдром Дауна. Зовут Роман, не говорит. По информации правоохранительных органов зашёл в метро на станции Октябрьская, кольцо. Лиза Алерт в курсе. Кто едет в метро, пожалуйста, посмотрите по сторонам, может Рома едет с вами в одном вагоне. Если увидите его, пожалуйста, проводите его к ближайшему сотруднику полиции. Его приметы: рост 170, игрушечный телефон в руках, светло-серая куртка, синит джинсы, темный рюкзак. Зовут Роман. На руках социальная карта на его имя."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Сила Пикабу",
+    "Потеря",
+    "Помощь",
+    "Москва",
+    "Метро",
+    "Потеряшка",
+    "Длиннопост",
+    "Без рейтинга",
+    "Пропал человек"
+  ]
+}
+{
+  "story_id": "9087523",
+  "user": "Raossa",
+  "user_id": "395650",
+  "user_link": "https://pikabu.ru/@Raossa",
+  "title": "Чего хотят мужчины",
+  "link": "https://pikabu.ru/story/chego_khotyat_muzhchinyi_9087523",
+  "comments count": "67",
+  "views count": "107106",
+  "downloads": "264",
+  "rating": "3320",
+  "creation_time": "2022-05-06T10:09:13+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Картинка с текстом",
+    "Отношения",
+    "Мужчины",
+    "Юмор",
+    "Капибара",
+    "Мужчины и женщины"
+  ]
+}
+{
+  "story_id": "9087816",
+  "user": "Wildwildworld",
+  "user_id": "2391760",
+  "user_link": "https://pikabu.ru/@Wildwildworld",
+  "title": "А чего такого?",
+  "link": "https://pikabu.ru/story/a_chego_takogo_9087816",
+  "comments count": "179",
+  "views count": "106921",
+  "downloads": "23",
+  "rating": "3278",
+  "creation_time": "2022-05-06T11:48:07+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Скриншот",
+    "ADME",
+    "Комментарии"
+  ]
+}
+{
+  "story_id": "9086754",
+  "user": "KudrashkaUU",
+  "user_id": "2219358",
+  "user_link": "https://pikabu.ru/@KudrashkaUU",
+  "title": "Пельмени",
+  "link": "https://pikabu.ru/story/pelmeni_9086754",
+  "comments count": "90",
+  "views count": "124784",
+  "downloads": "80",
+  "rating": "3107",
+  "creation_time": "2022-05-06T00:19:06+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9087603",
+  "user": "WeCanFly",
+  "user_id": "1210873",
+  "user_link": "https://pikabu.ru/@WeCanFly",
+  "title": "Бизнес-план",
+  "link": "https://pikabu.ru/story/biznesplan_9087603",
+  "comments count": "159",
+  "views count": "110347",
+  "downloads": "80",
+  "rating": "3161",
+  "creation_time": "2022-05-06T10:35:36+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/5/1651822433154453081.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Бизнес-план",
+    "Комментарии",
+    "Скриншот",
+    "Юмор"
+  ]
+}
+{
+  "story_id": "9087346",
+  "user": "el.strapone",
+  "user_id": "3487095",
+  "user_link": "https://pikabu.ru/@el.strapone",
+  "title": "Мем",
+  "link": "https://pikabu.ru/story/mem_9087346",
+  "comments count": "69",
+  "views count": "92012",
+  "downloads": "105",
+  "rating": "3118",
+  "creation_time": "2022-05-06T09:02:16+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/5/1651816903174270245.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Мемы",
+    "Картинка с текстом",
+    "Юмор",
+    "Человек-паук"
+  ]
+}
+{
+  "story_id": "9086804",
+  "user": "Nafig7",
+  "user_id": "2513654",
+  "user_link": "https://pikabu.ru/@Nafig7",
+  "title": "Аномалия",
+  "link": "https://pikabu.ru/story/anomaliya_9086804",
+  "comments count": "39",
+  "views count": "78635",
+  "downloads": "197",
+  "rating": "2885",
+  "creation_time": "2022-05-06T00:51:55+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/2022/05/06/0/1651787268182970032.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Юмор",
+    "Картинка с текстом",
+    "Кот"
+  ]
+}
+{
+  "story_id": "9088616",
+  "user": "xenophilemaniac",
+  "user_id": "3994500",
+  "user_link": "https://pikabu.ru/@xenophilemaniac",
+  "title": "Худшая актерская игра",
+  "link": "https://pikabu.ru/story/khudshaya_akterskaya_igra_9088616",
+  "comments count": "152",
+  "views count": "66825",
+  "downloads": "63",
+  "rating": "2830",
+  "creation_time": "2022-05-06T16:53:38+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/2022/05/06/8/1651845165124447273.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Юмор",
+    "Джонни Депп",
+    "Эмбер Хёрд",
+    "Картинка с текстом",
+    "Актеры и актрисы",
+    "Суд"
+  ]
+}
+{
+  "story_id": "9087914",
+  "user": "Parowozzz",
+  "user_id": "386500",
+  "user_link": "https://pikabu.ru/@Parowozzz",
+  "title": "Шепот в современных отечественных фильмах",
+  "link": "https://pikabu.ru/story/shepot_v_sovremennyikh_otechestvennyikh_filmakh_9087914",
+  "comments count": "471",
+  "views count": "83460",
+  "downloads": "57",
+  "rating": "2740",
+  "creation_time": "2022-05-06T12:25:58+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Ребята просто уже бомбит с этого , у меня подгорело все.\nА теперь из за чего...\nМы с женой любим смотреть разноплановые фильмы: комедии американские, отечественную классику, современные американские, корейские фильмы. И так случилось, что в последнее время смотрим современные произведения отечественных киноделов... В \"Чернобыль\" с Козловским и он и другие актеры шепчут, в других фильмах все шепчут и ни хера не слышно. Начали смотреть \"Чикатило\" и там все заебали, ни хера не понятно о чем говорят. Да сколько можно то? Что если шепчут актеры так выглядит круче и легче играть? Или что? Смотришь советские фильм, записанные на оборудовании прошлого века, так там все понятно! Крик души просто!"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Фильмы",
+    "Данила Козловский",
+    "Мат"
+  ]
+}
+{
+  "story_id": "9088065",
+  "user": "DrZolberg",
+  "user_id": "1013067",
+  "user_link": "https://pikabu.ru/@DrZolberg",
+  "title": "Масло первого отжима по старой технологии",
+  "link": "https://pikabu.ru/story/maslo_pervogo_otzhima_po_staroy_tekhnologii_9088065",
+  "comments count": "181",
+  "views count": "86546",
+  "downloads": "191",
+  "rating": "2710",
+  "creation_time": "2022-05-06T13:22:22+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651832488299151441_406x720.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Отжим",
+    "Масло",
+    "Традиции",
+    "Культура",
+    "TikTok",
+    "Из сети",
+    "Китайцы",
+    "Познавательно",
+    "Вертикальное видео",
+    "Видео"
+  ]
+}
+{
+  "story_id": "9087738",
+  "user": "AlexRadio",
+  "user_id": "1402524",
+  "user_link": "https://pikabu.ru/@AlexRadio",
+  "title": "Утро 06.05.2022. Экономический фронт",
+  "link": "https://pikabu.ru/story/utro_06052022_yekonomicheskiy_front_9087738",
+  "comments count": "425",
+  "views count": "97807",
+  "downloads": "41",
+  "rating": "2625",
+  "creation_time": "2022-05-06T11:23:05+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Коротко. Новости:1. «Совкомфлот» планирует продать «возрастные» суда, эксплуатация которых ограничена из-за санкций. Сколько именно кораблей планируется продать компания не уточняет.// По источникам третьего класса доверительности будет продано от 1/4 до 1/3 судов. Всего Совкомфлот располагает 134 судами. Продавать суда надо для погашения кредитов. Плохая новость.https://www.kommersant.ru/doc/5341075?from=top_main_22. Все сервисы платежной системы Банка России и Система передачи финансовых сообщений (СПФС) восстановили работу, сообщает ЦБ РФ. Ранее из-за технических работ фиксировалось замедление обработки операций. К российскому аналогу SWIFT подключились уже 52 зарубежные компании.// Хорошая новость. Система работоспособна и расширяется.https://radiosputnik.ria.ru/20220506/tsentrobank-1787149956....Товарная и валютная биржа: Рост рубля и нефти продолжается. Золото чуть падает."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Политика",
+    "Экономика",
+    "Финансы",
+    "Санкции",
+    "Рубль",
+    "Война"
+  ]
+}
+{
+  "story_id": "9087941",
+  "user": "cartime.pkb",
+  "user_id": "3586268",
+  "user_link": "https://pikabu.ru/@cartime.pkb",
+  "title": "Проклятый старый...",
+  "link": "https://pikabu.ru/story/proklyatyiy_staryiy_9087941",
+  "comments count": "48",
+  "views count": "84127",
+  "downloads": "91",
+  "rating": "2674",
+  "creation_time": "2022-05-06T12:39:07+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/6/1651829893184744890.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Мемы",
+    "Авто",
+    "Тонировка",
+    "ДПС",
+    "ГИБДД",
+    "Король и Шут",
+    "Юмор",
+    "Картинка с текстом"
+  ]
+}
+{
+  "story_id": "9086944",
+  "user": "Zheglov70",
+  "user_id": "1339863",
+  "user_link": "https://pikabu.ru/@Zheglov70",
+  "title": "Выходные на носу",
+  "link": "https://pikabu.ru/story/vyikhodnyie_na_nosu_9086944",
+  "comments count": "25",
+  "views count": "142054",
+  "downloads": "147",
+  "rating": "2650",
+  "creation_time": "2022-05-06T03:42:57+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/2022/05/06/2/165179774117843443.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Картинка с текстом",
+    "Жизненно",
+    "Юмор",
+    "Собачье сердце"
+  ]
+}
+{
+  "story_id": "9086811",
+  "user": "Nafig7",
+  "user_id": "2513654",
+  "user_link": "https://pikabu.ru/@Nafig7",
+  "title": "С мужчинами обычно так же",
+  "link": "https://pikabu.ru/story/s_muzhchinami_obyichno_tak_zhe_9086811",
+  "comments count": "101",
+  "views count": "118016",
+  "downloads": "63",
+  "rating": "2572",
+  "creation_time": "2022-05-06T00:57:12+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9087078",
+  "user": "cyrohug",
+  "user_id": "868587",
+  "user_link": "https://pikabu.ru/@cyrohug",
+  "title": "Настоящие приоритеты",
+  "link": "https://pikabu.ru/story/nastoyashchie_prioritetyi_9087078",
+  "comments count": "88",
+  "views count": "152898",
+  "downloads": "48",
+  "rating": "2610",
+  "creation_time": "2022-05-06T06:38:20+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "- А что лицо-то довольное такое, о бабах думаешь поди других?\n- Думаю, когда уже черешня пойдёт, да арбузы. Обожрусь как свинота"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Разговор",
+    "Юмор",
+    "Иркутск",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9087873",
+  "user": "To4noNeNonyx",
+  "user_id": "3078511",
+  "user_link": "https://pikabu.ru/@To4noNeNonyx",
+  "title": "А ты хорош!)",
+  "link": "https://pikabu.ru/story/a_tyi_khorosh_9087873",
+  "comments count": "59",
+  "views count": "93583",
+  "downloads": "27",
+  "rating": "2529",
+  "creation_time": "2022-05-06T12:08:30+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/6/165182805815896711.png"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Сыендук",
+    "Комментарии",
+    "YouTube",
+    "Скриншот",
+    "Ежик Соник"
+  ]
+}
+{
+  "story_id": "9087158",
+  "user": "lesyabulesya",
+  "user_id": "3824561",
+  "user_link": "https://pikabu.ru/@lesyabulesya",
+  "title": "Честный Толстой",
+  "link": "https://pikabu.ru/story/chestnyiy_tolstoy_9087158",
+  "comments count": "268",
+  "views count": "91080",
+  "downloads": "124",
+  "rating": "2443",
+  "creation_time": "2022-05-06T07:34:09+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/4/1651811367165975223.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Картинка с текстом",
+    "Лев Толстой",
+    "Цитаты"
+  ]
+}
+{
+  "story_id": "9087460",
+  "user": "DenimDef",
+  "user_id": "2763567",
+  "user_link": "https://pikabu.ru/@DenimDef",
+  "title": "Френдзона",
+  "link": "https://pikabu.ru/story/frendzona_9087460",
+  "comments count": "123",
+  "views count": "103375",
+  "downloads": "34",
+  "rating": "2421",
+  "creation_time": "2022-05-06T09:42:04+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/5/165181925418683581.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Картинка с текстом",
+    "Френдзона",
+    "Друзья",
+    "Негатив",
+    "Лучшее",
+    "Измена",
+    "Влюбленность",
+    "Проблемы в отношениях",
+    "Расставание"
+  ]
+}
+{
+  "story_id": "9087269",
+  "user": "smoke486",
+  "user_id": "600457",
+  "user_link": "https://pikabu.ru/@smoke486",
+  "title": "Ответ на пост «Перевод денег на карту, развод?»",
+  "link": "https://pikabu.ru/story/otvet_na_post_perevod_deneg_na_kartu_razvod_9087269",
+  "comments count": "125",
+  "views count": "83782",
+  "downloads": "20",
+  "rating": "2339",
+  "creation_time": "2022-05-06T08:34:52+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Расскажу свой случай. На новогодних каникулах прилетает мне на карту 8000 руб. от некой Фатимы. Я решил действовать на опережение и сразу же пишу в чат техподдержки (ЧТП) Сбера:Я: Здравствуйте, пришли деньги от неизвестного мне человека и никакого перевода я не жду. Что делать?ЧТП: При отправке денег пользователь соглашается с условиями перевода и подтверждает правильность введенных данных. Следовательно, деньги переведены по собственному желанию и вы можете ими распоряжаться.Я: Я хотел бы отменить этот перевод и вернуть деньги отправителю. Это возможно?ЧТП: Да. (Далее у меня запршивают точную сумму и карту на которую пришёл перевод).Переписка длилась минут 20. И тут активизировалась Фатима (Ф) и написала мне на вотсап.Ф: Здравствуйте, по ошибке перевели вам деньги. Можете их вернуть на номер (далее указывает не свой номер с которого пишет и он даже близко не похож на мой, т.е. ошибиться цифрой не возможно).Я: Здравствуйте. Деньги будут возвращены через банк в течение 3х дней. Я уже написал заявление на возврат.Ф: Это деньги на операцию ребенку! Они срочно нужны!Я: Процесс возврата уже запущен, ждите, банк вернет.На следующий день в 8:30 утра снова пишет Фатима:Ф: Я была в банке и никакого заявления там нет! (В каком банке? Как она впринципе могла что либо узнать, не понимаю? Ни моё имя ни даже город она не знает).Я: Ждите, деньги придут.Вечером того же дня сообщениеФ: Деньги вернулись спасибо.Я так и не понял что это было - развод или реальная ошибка. Но считаю свои действия в данной ситуации верными, так как переводить деньги на левые номера никогда не стоит. А так всё официально через банк."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Развод на деньги",
+    "Телефонные мошенники",
+    "Возврат денег",
+    "Нужен совет",
+    "Лига юристов",
+    "Ответ на пост",
+    "Текст",
+    "Негатив"
+  ]
+}
+{
+  "story_id": "9086803",
+  "user": "gershtulz",
+  "user_id": "584834",
+  "user_link": "https://pikabu.ru/@gershtulz",
+  "title": "Блокчейн. Начало",
+  "link": "https://pikabu.ru/story/blokcheyn_nachalo_9086803",
+  "comments count": "57",
+  "views count": "93813",
+  "downloads": "34",
+  "rating": "2258",
+  "creation_time": "2022-05-06T00:50:16+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "#comment_236538125"
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/0/1651787318120645273.png"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Юмор",
+    "Скриншот",
+    "Комментарии на Пикабу",
+    "Школа",
+    "Мат"
+  ]
+}
+{
+  "story_id": "9086978",
+  "user": "kuchka70",
+  "user_id": "274717",
+  "user_link": "https://pikabu.ru/@kuchka70",
+  "title": "Концовка выступления представителя Китая Чжана Цзюня на заседании Совбеза ООН несколько часов назад",
+  "link": "https://pikabu.ru/story/kontsovka_vyistupleniya_predstavitelya_kitaya_chzhana_tszyunya_na_zasedanii_sovbeza_oon_neskolko_chasov_nazad_9086978",
+  "comments count": "149",
+  "views count": "77648",
+  "downloads": "94",
+  "rating": "2119",
+  "creation_time": "2022-05-06T04:38:56+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Госпожа Председатель,уроки украинского кризиса глубоки и заслуживают серьезных размышлений. Безопасность всех стран неделима. Обеспечение безопасности одной страны за счет небезопасности других стран неразумно и нецелесообразно. Неоднократное расширение НАТО на восток после окончания холодной войны не только не сделало Европу безопаснее, но и посеяло семена конфликта. Вопреки заявлениям об оборонительной сути организации, НАТО беспочвенно развязывало войны против суверенных стран, приводя к колоссальным жертвам и гуманитарным катастрофам. Послезавтра, 7 мая, будет очередная годовщина, как в 1999 году НАТО выпустило несколько высокоточных ракет по посольству Китая в Югославии, убив трех китайских журналистов и ранив более 20 китайских дипломатов. Китайский народ никогда не забудет это варварское злодеяние и никогда не допустит, чтобы такая история повторилась. Теперь, когда холодная война позади, НАТО, естественно, должно оценить ситуацию и внести необходимые коррективы. Цепляние за анахроничную доктрину безопасности и стремление спровоцировать межблоковую конфронтацию и создать напряженность в Европе и даже в Азиатско-Тихоокеанском регионе и во всем мире, использование подобных практик столь же пагубны для других, как и для самих злоумышленников, и заслуживают по крайней мере решительного протеста Китая."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "ООН",
+    "Китай",
+    "Украина",
+    "Политика",
+    "Twitter",
+    "Новости",
+    "Длиннопост"
+  ]
+}
+{
+  "story_id": "9087643",
+  "user": "Poznayushij",
+  "user_id": "97918",
+  "user_link": "https://pikabu.ru/@Poznayushij",
+  "title": "Ответ на пост «Запрос в Лигу юристов»",
+  "link": "https://pikabu.ru/story/otvet_na_post_zapros_v_ligu_yuristov_9087643",
+  "comments count": "124",
+  "views count": "60491",
+  "downloads": "907",
+  "rating": "2130",
+  "creation_time": "2022-05-06T10:47:15+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Ох, мало кто понимает в том что можно кошмарить и школу и родителей хулиганов и министерство образования.\n1. ребенка к психологу, с формулировкой \"сейчас ролители организуют что то веселое\" и обьяснить что надо рассказать как есть а папа и мама придумают как помочь чтобы всем стало страшно.\n2. получаете заключение у психолога о том что ребёнок находится в травмированном состоянии. Потом на следующий месяц ребёнка убрать из школы со словами \"дочь, у тебя отпуск\". И на реальный отдых. Потом нагонит. Спросите у психолога советов как себя вести.\n3. С заключением психолога пишете жалобу на:родителей несовершеннолетних которые занимаются противопроавной деятельностью. Это в надзорные органы (опека). Потому что если чьи то дети ахуели надо понять не ахуели ли родители. Пусть сами потом доказывают что не верблюды.\nПотом пишите в министерство образования региональное с той же справкой, типа, у вас там учителя мышей не ловят. Пресекать травлю это прямые обязанности учителей.\nИ третье - в прокуратуру с формулировкой \"прошу обеспечить надзор за осуществление процесса пресечения противопровной деятельности по отношению к несовершеннолетнему\". Всё это в один день направить. Будьте готовы со всеми разговаривать, убеждать и стоять на своём. Ваша позиция простая \"сделайте так чтобы ребёнку не причиняли боль\".\nВам понадобиться много мудрости, надо твердо и без скандалов стоять на своём. Вы не обязаны воспитывать чужих детей, вы заботитесь о своём, а вот толпа специально обученных людей имеет на это все полномочия.Не срывайтесь на крик, угрозы, не видитесь \"они же дети\". И все такое. Вам не понравился результат? Все по новой.Помните, только вы способны защитить ребёнка.\n\nUpd. Дополню. Ваша основная задача не дать у ребёнка сформировать чувсву вырученные беспомощности. Прям самая главная. Иначе это ей потом во взрослой жизни ой как аукнится"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Вопрос",
+    "Юридическая помощь",
+    "Мат",
+    "Ответ на пост",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9086991",
+  "user": "Decembrisst",
+  "user_id": "2770602",
+  "user_link": "https://pikabu.ru/@Decembrisst",
+  "title": "Пирамида Хефрена. Египет",
+  "link": "https://pikabu.ru/story/piramida_khefrena_egipet_9086991",
+  "comments count": "53",
+  "views count": "97392",
+  "downloads": "85",
+  "rating": "2104",
+  "creation_time": "2022-05-06T04:52:57+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Интересное",
+    "Пирамида",
+    "Египет",
+    "Древний Египет",
+    "Красота",
+    "Красота природы"
+  ]
+}
+{
+  "story_id": "9088455",
+  "user": "ButIAmNotSure",
+  "user_id": "1799405",
+  "user_link": "https://pikabu.ru/@ButIAmNotSure",
+  "title": "Не, ну а вдруг сработает?",
+  "link": "https://pikabu.ru/story/ne_nu_a_vdrug_srabotaet_9088455",
+  "comments count": "37",
+  "views count": "68557",
+  "downloads": "42",
+  "rating": "2163",
+  "creation_time": "2022-05-06T15:45:19+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9087171",
+  "user": "history2022",
+  "user_id": "3952385",
+  "user_link": "https://pikabu.ru/@history2022",
+  "title": "Похороны лидера итальянской компартии",
+  "link": "https://pikabu.ru/story/pokhoronyi_lidera_italyanskoy_kompartii_9087171",
+  "comments count": "303",
+  "views count": "97710",
+  "downloads": "71",
+  "rating": "2115",
+  "creation_time": "2022-05-06T07:43:03+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/4/1651812095157874312.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Фотография",
+    "Старое фото",
+    "Черно-белое фото",
+    "СССР",
+    "Италия",
+    "История",
+    "Похороны"
+  ]
+}
+{
+  "story_id": "9087750",
+  "user": "Wildwildworld",
+  "user_id": "2391760",
+  "user_link": "https://pikabu.ru/@Wildwildworld",
+  "title": "Жадина-говядина",
+  "link": "https://pikabu.ru/story/zhadinagovyadina_9087750",
+  "comments count": "104",
+  "views count": "88015",
+  "downloads": "11",
+  "rating": "2084",
+  "creation_time": "2022-05-06T11:27:15+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/6/1651825617152835865.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Скриншот",
+    "ADME"
+  ]
+}
+{
+  "story_id": "9087874",
+  "user": "ViBo",
+  "user_id": "26590",
+  "user_link": "https://pikabu.ru/@ViBo",
+  "title": "Верный способ потерять 500 000 р",
+  "link": "https://pikabu.ru/story/vernyiy_sposob_poteryat_500_000_r_9087874",
+  "comments count": "215",
+  "views count": "83553",
+  "downloads": "39",
+  "rating": "2022",
+  "creation_time": "2022-05-06T12:08:42+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Клиенту делали доработки его интернет-магазина, по требованию клиента всю работу делали сразу на боевом сайте на одном из хостинг-провайдеров. Предлагали реализовать GIT, сделать резервные копирования, использовать хостинг с автоматическими бэкапами - отказ. \"У меня знакомый сисадмин поможет если что\".Работы закончили, все довольны. Прошло полгода.Сегодня пишет:Смотрим хостинг - сервер в норме, сайт недоступен.Пишем в саппорт хостингу, получаем ответФинита ля комедия. Свой код то у нас остался. А вот полгода работы с контентом (писали статьи в блог, описания товаров, разделов, новости, оформляли товары) - все кончилось.По прикидкам заказчика - потеряно около 500 тыс руб. по работам над сайтом.Всем успешных бэкапов!"
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/6/1651827764167175504.jpg",
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/6/1651828023189034661.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Малый бизнес",
+    "Клиенты",
+    "Бизнес",
+    "IT",
+    "Резервное копирование"
+  ]
+}
+{
+  "story_id": "9087149",
+  "user": "F.antomas",
+  "user_id": "3327645",
+  "user_link": "https://pikabu.ru/@F.antomas",
+  "title": "Ох уж этот массаж...",
+  "link": "https://pikabu.ru/story/okh_uzh_yetot_massazh_9087149",
+  "comments count": "48",
+  "views count": "108660",
+  "downloads": "27",
+  "rating": "1983",
+  "creation_time": "2022-05-06T07:29:54+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Ищу массажиста на Авито, наткнулся на такой отзыв ))"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Юмор",
+    "Авито",
+    "Массаж",
+    "Длиннопост",
+    "Скриншот"
+  ]
+}
+{
+  "story_id": "9087414",
+  "user": "TPECKOED",
+  "user_id": "1993774",
+  "user_link": "https://pikabu.ru/@TPECKOED",
+  "title": "Трудности перевода",
+  "link": "https://pikabu.ru/story/trudnosti_perevoda_9087414",
+  "comments count": "251",
+  "views count": "110307",
+  "downloads": "52",
+  "rating": "1981",
+  "creation_time": "2022-05-06T09:28:32+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Юмор",
+    "Трудности перевода",
+    "Скриншот"
+  ]
+}
+{
+  "story_id": "9088292",
+  "user": "tproger.official",
+  "user_id": "3466685",
+  "user_link": "https://pikabu.ru/@tproger.official",
+  "title": "Будни веб-разработчика",
+  "link": "https://pikabu.ru/story/budni_vebrazrabotchika_9088292",
+  "comments count": "75",
+  "views count": "67199",
+  "downloads": "69",
+  "rating": "1945",
+  "creation_time": "2022-05-06T14:51:48+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Я: *сдвигаю <div > на один пиксель*Сайт:"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "IT",
+    "IT юмор",
+    "Программирование",
+    "HTML",
+    "CSS",
+    "Web-программирование",
+    "Мемы"
+  ]
+}
+{
+  "story_id": "9087057",
+  "user": "ZalupinaValenok",
+  "user_id": "3275306",
+  "user_link": "https://pikabu.ru/@ZalupinaValenok",
+  "title": "Ответ на пост «Заявление президента Польши о границе с Украиной»",
+  "link": "https://pikabu.ru/story/otvet_na_post_zayavlenie_prezidenta_polshi_o_granitse_s_ukrainoy_9087057",
+  "comments count": "245",
+  "views count": "128947",
+  "downloads": "35",
+  "rating": "1858",
+  "creation_time": "2022-05-06T06:13:35+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Я просто оставлю это тут:\"Граждане Республики Польша уже воюют на Украине, и это никакие не показательные добровольцы, а наемники и отправленные туда по приказу военные\", — сказал Ренкас.Специалист добавил, что участие иностранцев в боях на территории бывшей советской республики будет только расширяться, так как они необходимы для правильной эксплуатации поставленных Западом вооружений."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Польша",
+    "Украина",
+    "Политика",
+    "Спецоперация",
+    "YouTube",
+    "Ответ на пост",
+    "РИА Новости"
+  ]
+}
+{
+  "story_id": "9087123",
+  "user": "Exel81",
+  "user_id": "3130646",
+  "user_link": "https://pikabu.ru/@Exel81",
+  "title": "Танки грязи не боятся)",
+  "link": "https://pikabu.ru/story/tanki_gryazi_ne_boyatsya_9087123",
+  "comments count": "226",
+  "views count": "92453",
+  "downloads": "78",
+  "rating": "1850",
+  "creation_time": "2022-05-06T07:13:29+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651810347278735673_576x720.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Видео",
+    "Вертикальное видео",
+    "Танки",
+    "Грязь",
+    "Военная техника"
+  ]
+}
+{
+  "story_id": "9087960",
+  "user": "kenaz",
+  "user_id": "629709",
+  "user_link": "https://pikabu.ru/@kenaz",
+  "title": "П - профессионализм",
+  "link": "https://pikabu.ru/story/p__professionalizm_9087960",
+  "comments count": "59",
+  "views count": "78178",
+  "downloads": "7",
+  "rating": "1839",
+  "creation_time": "2022-05-06T12:42:15+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Время 10.03\nЗвонок от менеджера фитнес-клуба.\nОтрывок разговора:\n- Вы какой клуб посещаете?\n- \"Name\".\n- Ну у нас то намного лучше.\n- Чем?\n- Марки тренажеров лучше.\n- Вы были в \"Name\"?\n- Да.\n- И чем лучше ваши марки тренажеров?\n- Вы знаете, я в марках не разбираюсь."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Продажа",
+    "Менеджер по продажам",
+    "Телефонный разговор",
+    "Фитнес",
+    "Robert B Weide"
+  ]
+}
+{
+  "story_id": "9087044",
+  "user": "Exel81",
+  "user_id": "3130646",
+  "user_link": "https://pikabu.ru/@Exel81",
+  "title": "Если нет возможности перекрыть воду)",
+  "link": "https://pikabu.ru/story/esli_net_vozmozhnosti_perekryit_vodu_9087044",
+  "comments count": "194",
+  "views count": "81588",
+  "downloads": "209",
+  "rating": "1827",
+  "creation_time": "2022-05-06T06:05:04+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651806226224616839_576x1024.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9086860",
+  "user": "JollyModelist",
+  "user_id": "3713781",
+  "user_link": "https://pikabu.ru/@JollyModelist",
+  "title": "Реднеки, хилбилли, каджуны - кто это вообще такие?",
+  "link": "https://pikabu.ru/story/redneki_khilbilli_kadzhunyi__kto_yeto_voobshche_takie_9086860",
+  "comments count": "92",
+  "views count": "73850",
+  "downloads": "242",
+  "rating": "1746",
+  "creation_time": "2022-05-06T01:39:27+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Американцы, как это не покажется удивительным, не делятся на геев, нигеров и ковбоев (про индейцев вообще молчу). Геи - это Сан-Франциско, негры- Нью-Йорк, ковбои - Техас, и остается еще чертова прорва места, где наверное кто-то да живет. Живет этот самый кто-то в глухой провинции, в маленьких городках с населением меньше, чем в средней российской деревне (но все равно - \"город\", да), или в глухих фермах посреди кукурузного поля, от которой до ближайшего соседа - 10 миль.Американских провинциалов называют по-разному - реднеки, хилбилли etc. И нужно заметить - не зря. Это разные категории людей, со своими особенностями и путать их так же глупо, как назвать сибиряка - скобарем, или ростовчанина - чалдоном. Поэтому давайте посмотрим, чем же они друг от друга отличаются.РеднекРеднеки, или, в переводе на русский, «красношеие» — это насмешливое прозвище жителей американской глубинки. Происходит от того, что много работающие под открытым небом люди получают характерный загар шеи и плеч.Традиционно считается, что реднек — это житель южных штатов или техасец. Это крепкий мордатый мужик, одетый в грубую фланелевую рубаху и потёртые джинсы, в сочетании с тяжёлыми армейскими ботинками и бейсболкой. Как вариант — вместо рубашки майка-алкоголичка, благодаря которой они как раз и получают тот самый загар. Любимый транспорт — старый пикап, вроде того, на котором разъезжала героиня «Сумерек». Оружие — всё, что может купить, но чаще всего дробовик («ремингтон», «винчестер» или «моссберг»), револьвер («кольт» или «смит-вессон») и винтовка («винчестер», «ремингтон» или рычажка под «магнум»)."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "США",
+    "Американцы",
+    "Народ",
+    "Сленг",
+    "Длиннопост"
+  ]
+}
+{
+  "story_id": "9088456",
+  "user": "VirusTyumen",
+  "user_id": "1220310",
+  "user_link": "https://pikabu.ru/@VirusTyumen",
+  "title": "Для начала",
+  "link": "https://pikabu.ru/story/dlya_nachala_9088456",
+  "comments count": "63",
+  "views count": "51088",
+  "downloads": "20",
+  "rating": "1749",
+  "creation_time": "2022-05-06T15:46:10+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/8/1651841072142144434.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Скриншот",
+    "Комментарии на Пикабу",
+    "Родители и дети"
+  ]
+}
+{
+  "story_id": "9087089",
+  "user": "volkoffanna",
+  "user_id": "2798680",
+  "user_link": "https://pikabu.ru/@volkoffanna",
+  "title": "М - мотивация",
+  "link": "https://pikabu.ru/story/m__motivatsiya_9087089",
+  "comments count": "99",
+  "views count": "125178",
+  "downloads": "15",
+  "rating": "1706",
+  "creation_time": "2022-05-06T06:46:50+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Завтра я буду спать. Заведу специально будильник на 5 утра. Выключу его - и дальше спать."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Без рейтинга",
+    "Трудовые будни",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9087872",
+  "user": "Wildwildworld",
+  "user_id": "2391760",
+  "user_link": "https://pikabu.ru/@Wildwildworld",
+  "title": "Двойников надо кормить",
+  "link": "https://pikabu.ru/story/dvoynikov_nado_kormit_9087872",
+  "comments count": "56",
+  "views count": "41561",
+  "downloads": "26",
+  "rating": "1704",
+  "creation_time": "2022-05-06T12:08:09+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/6/1651828056118616760.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Скриншот",
+    "ADME",
+    "Кот"
+  ]
+}
+{
+  "story_id": "9087204",
+  "user": "Strazl",
+  "user_id": "2420032",
+  "user_link": "https://pikabu.ru/@Strazl",
+  "title": "Я му...ло!",
+  "link": "https://pikabu.ru/story/ya_mulo_9087204",
+  "comments count": "66",
+  "views count": "67847",
+  "downloads": "16",
+  "rating": "1658",
+  "creation_time": "2022-05-06T08:03:57+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Как-то давно на меня напал один тип в комментариях к своему рассказу. Я ему указал на некоторые ляпы в его творении, он сказал, что я ничего не понимаю и вообще. А потом… вообще удалил всю ветку нашей с ним переписки. На всякий случай. Тогда я был молод, горяч и впечатлителен. Соответственно, типаж этого замечательного человека вдохновил меня на сатирический рассказ. Естественно, без упоминания реальных ников. А прототип главного, так сказать, героя рассказа возьми и прочти этот рассказ. И вы знаете, что написал прототип главного героя в комментариях? А вот это: “Автор сто процентов конченое му...ло! Потому что только му...ло может писать о му...ле так убедительно”."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Юмор",
+    "Жизненно",
+    "Мат",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9088037",
+  "user": "MamaLada",
+  "user_id": "1642455",
+  "user_link": "https://pikabu.ru/@MamaLada",
+  "title": "А Шарик выйдет с пчёлами играть?",
+  "link": "https://pikabu.ru/story/a_sharik_vyiydet_s_pchyolami_igrat_9088037",
+  "comments count": "22",
+  "views count": "60778",
+  "downloads": "69",
+  "rating": "1616",
+  "creation_time": "2022-05-06T13:13:40+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Фотография",
+    "Юмор",
+    "Собака"
+  ]
+}
+{
+  "story_id": "9089213",
+  "user": "Svetlana1878",
+  "user_id": "2904258",
+  "user_link": "https://pikabu.ru/@Svetlana1878",
+  "title": "Одиночество...",
+  "link": "https://pikabu.ru/story/odinochestvo_9089213",
+  "comments count": "690",
+  "views count": "30351",
+  "downloads": "77",
+  "rating": "1541",
+  "creation_time": "2022-05-06T20:26:21+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Я всю жизнь одна, одинока. Не знаю бегут от меня мужчины, проклята что ли.., мне 43г уже, пикабушники просто скажите доброе слово, я не знаю, меня разрывает, переодтчески плачУ..."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Одиночество",
+    "Знакомства"
+  ]
+}
+{
+  "story_id": "9086809",
+  "user": "lionet96",
+  "user_id": "1216046",
+  "user_link": "https://pikabu.ru/@lionet96",
+  "title": "Самое время вспомнить фото, опубликованные the sun",
+  "link": "https://pikabu.ru/story/samoe_vremya_vspomnit_foto_opublikovannyie_the_sun_9086809",
+  "comments count": "149",
+  "views count": "108270",
+  "downloads": "20",
+  "rating": "1506",
+  "creation_time": "2022-05-06T00:54:09+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "С sun был предыдущий суд Джонни, который он проиграл.\n\nФото, показанные сегодня суду:"
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/0/16517871591035375.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Эмбер Хёрд",
+    "Джонни Депп",
+    "Суд",
+    "Доказательство",
+    "Синяк",
+    "Сломанный нос",
+    "Photoshop",
+    "The Sun",
+    "Абьюз",
+    "Негатив",
+    "Длиннопост"
+  ]
+}
+{
+  "story_id": "9086947",
+  "user": "Irrisor",
+  "user_id": "3992254",
+  "user_link": "https://pikabu.ru/@Irrisor",
+  "title": "Теннис",
+  "link": "https://pikabu.ru/story/tennis_9086947",
+  "comments count": "39",
+  "views count": "71433",
+  "downloads": "327",
+  "rating": "1507",
+  "creation_time": "2022-05-06T03:46:34+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/2/1651797924199097075.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Девушки",
+    "Фотография",
+    "Хорошая фигура",
+    "Теннис",
+    "Мулатка",
+    "Ножки"
+  ]
+}
+{
+  "story_id": "9087192",
+  "user": "Axel.DE",
+  "user_id": "3210879",
+  "user_link": "https://pikabu.ru/@Axel.DE",
+  "title": "Под надёжной охраной)",
+  "link": "https://pikabu.ru/story/pod_nadyozhnoy_okhranoy_9087192",
+  "comments count": "5",
+  "views count": "74759",
+  "downloads": "90",
+  "rating": "1466",
+  "creation_time": "2022-05-06T07:55:25+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9086952",
+  "user": "v1i2t3",
+  "user_id": "2900362",
+  "user_link": "https://pikabu.ru/@v1i2t3",
+  "title": "Окружи женщину заботой",
+  "link": "https://pikabu.ru/story/okruzhi_zhenshchinu_zabotoy_9086952",
+  "comments count": "12",
+  "views count": "66101",
+  "downloads": "100",
+  "rating": "1405",
+  "creation_time": "2022-05-06T03:51:38+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/2022/05/06/2/1651798223127484261.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Картинка с текстом",
+    "Мужчины и женщины",
+    "Забота"
+  ]
+}
+{
+  "story_id": "9087940",
+  "user": "krupatin",
+  "user_id": "3735622",
+  "user_link": "https://pikabu.ru/@krupatin",
+  "title": "Гражданская Оборона - Всё идёт по плану",
+  "link": "https://pikabu.ru/story/grazhdanskaya_oborona__vsyo_idyot_po_planu_9087940",
+  "comments count": "108",
+  "views count": "56778",
+  "downloads": "396",
+  "rating": "1410",
+  "creation_time": "2022-05-06T12:38:45+03:00",
+  "author": true,
+  "content": [
+    {
+      "text": "Истинного ценителя творчества Игоря Фёдоровича я не удивлю. Но, мне кажется, эта история  должна прозвучать на канале \"Откуда Ноты Растут\"."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651829738247716196_1080x1920.webm",
+        "https://www.youtube.com/embed/XcLt-DVK2Ow"
+      ]
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Откуда ноты растут",
+    "Николай Крупатин",
+    "Музыка",
+    "Видео",
+    "Вертикальное видео",
+    "YouTube"
+  ]
+}
+{
+  "story_id": "9087354",
+  "user": "RooslanV",
+  "user_id": "2964917",
+  "user_link": "https://pikabu.ru/@RooslanV",
+  "title": "Медведь жрет солнце...",
+  "link": "https://pikabu.ru/story/medved_zhret_solntse_9087354",
+  "comments count": "45",
+  "views count": "99129",
+  "downloads": "23",
+  "rating": "1350",
+  "creation_time": "2022-05-06T09:04:06+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/5/1651816982168049241.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Казань",
+    "Солнце",
+    "Медведи",
+    "Фотография",
+    "Облака",
+    "Мобильная фотография"
+  ]
+}
+{
+  "story_id": "9088252",
+  "user": "EHOTnOTACKYH",
+  "user_id": "363420",
+  "user_link": "https://pikabu.ru/@EHOTnOTACKYH",
+  "title": "Ну, хотя бы не заниматься его поддержкой",
+  "link": "https://pikabu.ru/story/nu_khotya_byi_ne_zanimatsya_ego_podderzhkoy_9088252",
+  "comments count": "48",
+  "views count": "56702",
+  "downloads": "15",
+  "rating": "1375",
+  "creation_time": "2022-05-06T14:38:29+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "— Она заставляла меня использовать Internet Explorer"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "IT юмор",
+    "Internet Explorer",
+    "Джонни Депп",
+    "Эмбер Хёрд",
+    "Домашнее насилие",
+    "Картинка с текстом"
+  ]
+}
+{
+  "story_id": "9087272",
+  "user": "ZakShan",
+  "user_id": "2478972",
+  "user_link": "https://pikabu.ru/@ZakShan",
+  "title": "Ответ на пост «Как уволить беременную?»",
+  "link": "https://pikabu.ru/story/otvet_na_post_kak_uvolit_beremennuyu_9087272",
+  "comments count": "183",
+  "views count": "65467",
+  "downloads": "42",
+  "rating": "1320",
+  "creation_time": "2022-05-06T08:35:21+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Ладно уволить! Беременных женщин нельзя в командировку направлять!\nВот вообще нельзя.\nУ меня сотрудница была. Подошёл у неё срок ехать на очередное обучение. Я пишу служебку «О направлении…», а знал о её беременности только по хорошему знакомству (срок ранний, явных признаков не было). И тут я решил посоветоваться с отделом кадров. И тогда я узнал обо всех нюансах нашего ТК, а именно БЕРЕМЕННЫХ НАПРАВЛЯТЬ В КМД ЗАПРЕЩЕНО!\nИ ты можешь не знать, что она беременна, но случись в командировке с ней чего, да даже не по беременности, просто к врачу обратилась, всё, велком на Колыму. Отмазки «я не знал» не покатят. Ты нарушил закон, а в законе нет оговорок про «намеренное направление». Есть ТК РФ Статья 259. По ней получается, что женщина сама может не знать, что она беремена. А тут в командировке аппендицит, операция и выясняется не ловкий момент. В результате начальнику срок без права занимать руководящую должность 5 лет.\nВрачи сами сообщат куда надо, а прокуратура уже завершит дело до конца, хочет это будущая мать или нет.\nСлужебную на свою сотрудницу я уничтожил, сжёг, а пепел съел. Пошли конечно обиды, но я только развёл руки и извинился.\nОтсюда вывод, женщин в детородном состояние направлять в командировку опасно.\n\np.s.\nКстати про ненормированный рабочий день, работу ночью и т.п. тоже самое."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Юристы",
+    "Закон",
+    "Консультация",
+    "Увольнение",
+    "Незаконное увольнение",
+    "Зарплата",
+    "Несправедливость",
+    "Пенсия",
+    "Беременность",
+    "Ответ на пост",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9087177",
+  "user": "H4PKOTA",
+  "user_id": "669826",
+  "user_link": "https://pikabu.ru/@H4PKOTA",
+  "title": "Не тот будильник",
+  "link": "https://pikabu.ru/story/ne_tot_budilnik_9087177",
+  "comments count": "34",
+  "views count": "51853",
+  "downloads": "51",
+  "rating": "1304",
+  "creation_time": "2022-05-06T07:47:42+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/05/5/1651732677169472124.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Мемы",
+    "Картинка с текстом",
+    "Рик и Морти",
+    "Будильник"
+  ]
+}
+{
+  "story_id": "9087159",
+  "user": "WeCanFly",
+  "user_id": "1210873",
+  "user_link": "https://pikabu.ru/@WeCanFly",
+  "title": "Как быть?",
+  "link": "https://pikabu.ru/story/kak_byit_9087159",
+  "comments count": "388",
+  "views count": "88311",
+  "downloads": "12",
+  "rating": "1307",
+  "creation_time": "2022-05-06T07:35:22+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/4/1651811638154896281.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Скриншот",
+    "Комментарии",
+    "Отношения",
+    "Машина",
+    "Родственники"
+  ]
+}
+{
+  "story_id": "9086971",
+  "user": "romanjm",
+  "user_id": "3834271",
+  "user_link": "https://pikabu.ru/@romanjm",
+  "title": "Пазл сложился",
+  "link": "https://pikabu.ru/story/pazl_slozhilsya_9086971",
+  "comments count": "166",
+  "views count": "48796",
+  "downloads": "14",
+  "rating": "1295",
+  "creation_time": "2022-05-06T04:29:28+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Живу в Красноярске. Решили осенью с женой поменять квартиру, в которой жили последние 8 лет, так как в нашем районе начал строиться новый и очень красивый жилой комплекс. Съездили, посмотрели и решили, что хотим туда.\n\nКвартиру на продажу. Ипотеку одобрил жене дом.рф. До февраля особой движухи не было. И вот, после начала известных событий, пошли звонки. А мы уже решили, что квартиры нам не видать, так как срок предложения по ипотеке уже истёк, а новые ставки космос. И тут я узнаю, что льготная ипотека на новостройку осталась на уровне 6.35%. Иду в Сбер, получаю одобрение сроком на месяц. Ищем покупателя. Квартиры у застройщика пока есть.\n\nИ тут самое интересное. В конце марта покупатель нашелся, но с 1 апреля ставка должна была вырасти до 12%, что мы не потянули бы. Сделку заключить не успевали, чтобы внести первоначальный взнос по ипотеке. Опять думали, что ничего не выйдет. Сбер сохранил нашу ставку до 7 апреля.\n\nВ итоге одалживаем 3.5 мульта у тёщи, которые у неё на хату лежали, и несём их в банк, подписываем ипотечный договор ещё на 3 мульта. Подписываем договор долевого участия с застройщиком. Несём документы в МФЦ на регистрацию права собственности, после чего откатить это дело уже было невозможно. Затем ждём, когда наши покупатели продадут свою квартиру в другом городе, чтобы купить нашу. И хотя они уже дали небольшой задаток, полной уверенности, что купят, не было. К тому же, оказались с тараканами, все боялись, что их где-то кинут. Тревожно было всем.\n\nВ итоге деньги покупателями все же получены, сделка заключена, квартира продана. У моего бати освободилась квартира, которую он сдавал, и он разрешил нам пожить 1.5 года за квартплату, пока строится наше новое жилье (снимать и платить ипотеку тоже было бы тяжело). Перевезли пожитки неделю назад с чувством большого облегчения. Если бы хоть один фактор не сработал, то вся цепочка рухнула бы. До последнего не верилось, что все получится. Натурально залетели в последний вагон. Это было бы невозможно без участия родных, спасибо им.\n\nТеперь ждём желанную квартиру и строим планы по обстановке в ней. Сдача в 4-м квартале 2023 г. Застройщик один из крупнейших в городе, поэтому беспокойства за сроки нет. Всем мира и сбычи мечт."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Ипотека",
+    "Истории из жизни",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9087731",
+  "user": "rug178",
+  "user_id": "2595058",
+  "user_link": "https://pikabu.ru/@rug178",
+  "title": "Лула из Бразилии предлагает создать латиноамериканскую валюту, чтобы «освободиться от зависимости от доллара США»",
+  "link": "https://pikabu.ru/story/lula_iz_brazilii_predlagaet_sozdat_latinoamerikanskuyu_valyutu_chtobyi_osvoboditsya_ot_zavisimosti_ot_dollara_ssha_9087731",
+  "comments count": "156",
+  "views count": "54354",
+  "downloads": "21",
+  "rating": "1252",
+  "creation_time": "2022-05-06T11:21:58+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Левый лидер Бразилии Лула да Силва говорит, что если он победит на президентских выборах 2022 года, «мы собираемся создать валюту в Латинской Америке», называемую Sur («Юг»), для борьбы с «зависимостью от доллара»."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Политика",
+    "Экономика",
+    "Бразилия",
+    "Выборы"
+  ]
+}
+{
+  "story_id": "9086761",
+  "user": "oedante",
+  "user_id": "2228366",
+  "user_link": "https://pikabu.ru/@oedante",
+  "title": "Награда @Mefodii за сводки по ситуации на Украине",
+  "link": "https://pikabu.ru/story/nagrada_mefodii_za_svodki_po_situatsii_na_ukraine_9086761",
+  "comments count": "63",
+  "views count": "45147",
+  "downloads": "17",
+  "rating": "1247",
+  "creation_time": "2022-05-06T00:26:02+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9088063",
+  "user": "vesgara",
+  "user_id": "2083862",
+  "user_link": "https://pikabu.ru/@vesgara",
+  "title": "Ответ на пост «Привязанность к авто»",
+  "link": "https://pikabu.ru/story/otvet_na_post_privyazannost_k_avto_9088063",
+  "comments count": "70",
+  "views count": "59030",
+  "downloads": "21",
+  "rating": "1235",
+  "creation_time": "2022-05-06T13:21:46+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Видимо писать ответом на пост мое проклятие)\nНу уж раз пошла волна. Ваз 2106. Золотко которое возит мою жепку почти двадцать пять лет. Одно из первых фото шестюни. Где есть даже я, батя и бабушки. Цвет конечно исказился до невозможности"
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/6/1651829230133897053.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Авто",
+    "Привязанность",
+    "Ваз-2106",
+    "АвтоВАЗ",
+    "Отец",
+    "Женщина за рулем",
+    "Ответ на пост",
+    "Длиннопост"
+  ]
+}
+{
+  "story_id": "9089148",
+  "user": "PageD0WN",
+  "user_id": "1353096",
+  "user_link": "https://pikabu.ru/@PageD0WN",
+  "title": "Сколько песчинок в икеевских песочных часах",
+  "link": "https://pikabu.ru/story/skolko_peschinok_v_ikeevskikh_pesochnyikh_chasakh_9089148",
+  "comments count": "188",
+  "views count": "33703",
+  "downloads": "77",
+  "rating": "1280",
+  "creation_time": "2022-05-06T20:00:06+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Есть у меня дома песочные часы из (без)временно покинувшей нас IKEA.Вот такие."
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/9/1651849276148842066.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Расчет",
+    "Песок",
+    "Песочные часы",
+    "Математика",
+    "Упоротость",
+    "Длиннопост"
+  ]
+}
+{
+  "story_id": "9087773",
+  "user": "p3tr0v1ch",
+  "user_id": "873687",
+  "user_link": "https://pikabu.ru/@p3tr0v1ch",
+  "title": "Сочный",
+  "link": "https://pikabu.ru/story/sochnyiy_9087773",
+  "comments count": "159",
+  "views count": "60423",
+  "downloads": "149",
+  "rating": "1242",
+  "creation_time": "2022-05-06T11:36:37+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651826099236252638_406x720.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Сочность",
+    "Апельсин",
+    "Вертикальное видео",
+    "Фрукты",
+    "Дерево",
+    "Растения",
+    "Видео"
+  ]
+}
+{
+  "story_id": "9089349",
+  "user": "Biopsyofmattress",
+  "user_id": "2149892",
+  "user_link": "https://pikabu.ru/@Biopsyofmattress",
+  "title": "А я сегодня женился",
+  "link": "https://pikabu.ru/story/a_ya_segodnya_zhenilsya_9089349",
+  "comments count": "169",
+  "views count": "23476",
+  "downloads": "12",
+  "rating": "1295",
+  "creation_time": "2022-05-06T21:27:50+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Тут последнее время все выкидывают посты про поздравления. Короче. Ребят, я сегодня женился. Поздравления от любимого пикабу приветствуются."
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/11/1651861603149519231.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Свадьба",
+    "Пикабу"
+  ]
+}
+{
+  "story_id": "9087841",
+  "user": "sefus",
+  "user_id": "1024909",
+  "user_link": "https://pikabu.ru/@sefus",
+  "title": "Жизнь разработчика",
+  "link": "https://pikabu.ru/story/zhizn_razrabotchika_9087841",
+  "comments count": "19",
+  "views count": "57217",
+  "downloads": "58",
+  "rating": "1226",
+  "creation_time": "2022-05-06T11:57:14+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "IT юмор",
+    "Картинка с текстом",
+    "Reddit",
+    "Код",
+    "Баг",
+    "Гроб"
+  ]
+}
+{
+  "story_id": "9087486",
+  "user": "4EJlOBEKcCEBEPA",
+  "user_id": "2775028",
+  "user_link": "https://pikabu.ru/@4EJlOBEKcCEBEPA",
+  "title": "Ответ на пост «Кто узнает, передавайте привет!»",
+  "link": "https://pikabu.ru/story/otvet_na_post_kto_uznaet_peredavayte_privet_9087486",
+  "comments count": "92",
+  "views count": "53932",
+  "downloads": "4",
+  "rating": "1208",
+  "creation_time": "2022-05-06T09:54:44+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Ехал по городу, передо мной газель, из водительского окна на ходу вылетает куча мусора в виде упаковок от кефра и прочей жрачки и ложится слоем на заснеженную обочину. Подгорело у меня тогда знатно конечно. Опередил его, посигналил, прижал. Водила сначала отнекивался, потом бычку включил, мол \"-а чё нельзя кидать что ли?\", \"-а чё, это мусор что ли?\" В драку лез, чуть лица не побили друг другу. Записал всё на видео + регистратор в машине работал.\nНа газели была надпись фирмы, находящейся неподалёку. Позвонил им, они дали тел. службы безопасности, они связались с перевозчиком (посредником).\nВ итоге через пару часов весь срач был убран, а этот еблан меня в контакте нашёл, узнал где я работаю и угрозы строчил, всё пытаясь узнать, показывал ли я кому-либо видео с регистратора."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Не мусорьте!",
+    "Мусор",
+    "Ответ на пост",
+    "Мат"
+  ]
+}
+{
+  "story_id": "9087165",
+  "user": "Drevdel",
+  "user_id": "3993361",
+  "user_link": "https://pikabu.ru/@Drevdel",
+  "title": "Минипила, а может, микро...",
+  "link": "https://pikabu.ru/story/minipila_a_mozhet_mikro_9087165",
+  "comments count": "265",
+  "views count": "73280",
+  "downloads": "126",
+  "rating": "1216",
+  "creation_time": "2022-05-06T07:36:24+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651811643276822809_640x1138.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Инструменты",
+    "Пила",
+    "Telegram",
+    "Видео",
+    "Вертикальное видео"
+  ]
+}
+{
+  "story_id": "9087033",
+  "user": "Timon.chik",
+  "user_id": "3507430",
+  "user_link": "https://pikabu.ru/@Timon.chik",
+  "title": "Ответ на пост «Коза и тофу»",
+  "link": "https://pikabu.ru/story/otvet_na_post_koza_i_tofu_9087033",
+  "comments count": "83",
+  "views count": "59007",
+  "downloads": "13",
+  "rating": "1213",
+  "creation_time": "2022-05-06T05:49:27+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Подтверждаю. Когда знакомая завела козу, на придомовом участке стало идеально чисто. Сожрана вся трава, окурки, собачье говно, обглоданы крупные деревья и сожраны мелкие... Даже свои какахи жрала. Что удивительно, пробовал молоко этой отмороженой козы- отменное!"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Коза",
+    "Еда",
+    "Привереда",
+    "Ответ на пост",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9087680",
+  "user": "kniphoff",
+  "user_id": "3185491",
+  "user_link": "https://pikabu.ru/@kniphoff",
+  "title": "Папа, я сама",
+  "link": "https://pikabu.ru/story/papa_ya_sama_9087680",
+  "comments count": "87",
+  "views count": "54690",
+  "downloads": "18",
+  "rating": "1198",
+  "creation_time": "2022-05-06T11:00:33+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Прочитал я тут пост о том, как молодой юрист, умудрившийся получить в подарок от родителей квартиру сразу с поступлением в ВУЗ, неведомым образом устроившийся в крупную компанию на зарплату, вдвое превышающую среднюю по региону , искренне недоумевает, как люди не могут нормально зарабатывать, и утверждает, что для нормального заработка нужно много работать.Так вот, вспомнилась мне история:начало 00-х, беседую с знакомым, занимающим не последнюю должность в таможенной службе и, соответственно, имеющим определенный доход и статус. И этот знакомый говорит, мол, дочка подросла, ВУЗ окончила. пристроил он ее в одну из фактически своих фирм, оформленную на хорошего приятеля. Фирма занимается декларированием и таможенным сопровождением грузов. Устроил дочку туда на непыльную должность (карандаши точить, бумаги по папкам раскладывать) с фактически свободным графиком работы.Самое интересное в том, что дочь решила стать самостоятельной и у папы денег брать отказывалась. Папа-таможенник решил, что деньги дочке можно передавать в качестве \"серой\" зарплаты. И вышло, что дочь в фирме получала условный МРОТ и конверт с якобы настоящей зарплатой (на деле передачу от папы).Далее рассказ от лица папы-таможенника:Звоню дочери, расспрашиваю о делах, об успехах. Все хорошо у нее, работа, говорит, нравится. Денег немного скопила, машину хочет покупать, но накоплений хватает только на старенькую иномарку. Я ей говорю, мол, давай добавлю - купишь что-нибудь посвежее. А она мне в ответ: \"Папа! Я всего привыкла добиваться сама! Не нужны мне твои деньги\". Вот и не знаю теперь, \"зарплату\" что ли ей поднять..."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Родители и дети",
+    "Взрослые дети",
+    "Самостоятельность",
+    "Грустный юмор",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9088050",
+  "user": "luckymanbest",
+  "user_id": "428636",
+  "user_link": "https://pikabu.ru/@luckymanbest",
+  "title": "Самые ржачные Фейки Укросми",
+  "link": "https://pikabu.ru/story/samyie_rzhachnyie_feyki_ukrosmi_9088050",
+  "comments count": "284",
+  "views count": "45528",
+  "downloads": "178",
+  "rating": "1196",
+  "creation_time": "2022-05-06T13:17:49+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9088557",
+  "user": "SallyKS",
+  "user_id": "2079539",
+  "user_link": "https://pikabu.ru/@SallyKS",
+  "title": "Женщина его мечты",
+  "link": "https://pikabu.ru/story/zhenshchina_ego_mechtyi_9088557",
+  "comments count": "146",
+  "views count": "42681",
+  "downloads": "51",
+  "rating": "1214",
+  "creation_time": "2022-05-06T16:32:15+03:00",
+  "author": true,
+  "content": [
+    {
+      "text": "Есть волшебная история, конец которой прекрасен и ужасен одновременно.Жила-была молодая и красивая женщина. Пусть будет Юлия. Вышла замуж за такого же молодого и красивого мужчину, родила ребенка. А муж, приличный с виду человек с непыльной офисной работой, с хорошей квартирой и машиной, оказался игроманом и проиграл вообще все, что у него было, плюс то, чего у него не было, плюс набрал кредитов… Наступил момент, когда она, только проснувшись утром, сразу же бежала проверять, что за ночь пропало из дома. Потому что ложились спать вместе, а ночью муж тихо вставал и тащил в ломбард что плохо лежит. Работу он потерял, машину отдал за долги и стал уже поговаривать, что семье из четырех человек трехкомнатной квартиры много, можно и двушку взять, или даже полуторку. А на разницу – хороший ремонт. Короче, старая история. Знаем мы эти ремонты.Когда стало совсем плохо, Юля развелась. Из совместно нажитого у супругов остались лишь долги, и те по большей части только мужа, но ушла женщина все же не с пустыми руками. В одной руке у нее был шестилетний ребенок, а в другой – дарственная на квартиру от родителей мужа. Они понимали, что от такого отца сын алиментов никогда не дождется, и жалели внука, да и Юлю, поэтому решили обеспечить внука жильем - у них была квартира, которую они сдавали.И после развода она натерпелась неслабо: долги мужа передали коллекторам, а те начали прессовать женщину – мол, кредиты взяты в браке, плати. Угрожали ей, ребенку, расписывали двери – тоже старая история. Преследовал ее с угрозами и бывший, который хотел продать квартиру, в которой она жила с сыном, считая, что это его «наследство», а она как без ничего к нему пришла, так и должна была уйти. В общем, по сравнению с тем, что происходило в браке, можно сказать, наступило вполне мирное время."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Истории из жизни",
+    "Отношения",
+    "Зависимость",
+    "Корысть",
+    "Длиннопост",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9088270",
+  "user": "ShayrmaDlyaUma",
+  "user_id": "3938085",
+  "user_link": "https://pikabu.ru/@ShayrmaDlyaUma",
+  "title": "\"Независимые\" СМИ",
+  "link": "https://pikabu.ru/story/nezavisimyie_smi_9088270",
+  "comments count": "33",
+  "views count": "43480",
+  "downloads": "47",
+  "rating": "1188",
+  "creation_time": "2022-05-06T14:45:30+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/7/1651837444114429758.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Twitter",
+    "Политика",
+    "СМИ и пресса",
+    "Запад",
+    "Скриншот"
+  ]
+}
+{
+  "story_id": "9087426",
+  "user": "5065",
+  "user_id": "2453199",
+  "user_link": "https://pikabu.ru/@5065",
+  "title": "Ответ на пост «Как уволить беременную?»",
+  "link": "https://pikabu.ru/story/otvet_na_post_kak_uvolit_beremennuyu_9087426",
+  "comments count": "167",
+  "views count": "60215",
+  "downloads": "15",
+  "rating": "1144",
+  "creation_time": "2022-05-06T09:31:37+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "В 2005 я открыл ИП, на работу были приняты 6 девушек. Через год девушки поочерёдно стали беременеть. Соответственно на их место брал других работниц временно, на место ушедшей в декрет. Одна девушка, работая у меня, уходила в декрет три раза. Всего у неё четыре мальчика. Другая уходила два раза, у неё три девочки. Что интересно у каждого ребёнка разные отцы. Три девушки, пришедшие временно, тоже забеременели. Одной из них было за 30, жила с родителями без мужа и давно мечтала о ребенке и вот получилось.\nЖену и дочь звал на работу (чтоб деньги в семью), жена отказалась, не хочу говорит уйти в декрет под полтинник.\nЗа десять лет работы у \"меня\" родилось около 15 детей.\nЯ просто закрыл ИП и всё. И открыл под другим именем. Из трех бывших в декрете на момент закрытия, в новое ИП вернулась и работает только одна.\nНовая хозяйка ИП тоже ушла в декрет через два года после открытия. Бухгалтер родила девочку, правда она была устроена по совместительству."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Юристы",
+    "Закон",
+    "Консультация",
+    "Увольнение",
+    "Зарплата",
+    "Беременность",
+    "Ответ на пост",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9087590",
+  "user": "CookEatingCats",
+  "user_id": "3278399",
+  "user_link": "https://pikabu.ru/@CookEatingCats",
+  "title": "Rachel",
+  "link": "https://pikabu.ru/story/rachel_9087590",
+  "comments count": "30",
+  "views count": "50172",
+  "downloads": "186",
+  "rating": "1133",
+  "creation_time": "2022-05-06T10:30:22+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/2022/05/06/5/1651822191153275422.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Девушки",
+    "Фотография",
+    "Rachel Cook",
+    "Модели"
+  ]
+}
+{
+  "story_id": "9087831",
+  "user": "Wildwildworld",
+  "user_id": "2391760",
+  "user_link": "https://pikabu.ru/@Wildwildworld",
+  "title": "Не парился",
+  "link": "https://pikabu.ru/story/ne_parilsya_9087831",
+  "comments count": "57",
+  "views count": "63786",
+  "downloads": "17",
+  "rating": "1142",
+  "creation_time": "2022-05-06T11:54:08+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "ADME",
+    "Картинка с текстом",
+    "Отношения"
+  ]
+}
+{
+  "story_id": "9087686",
+  "user": "sinysoidV3.0",
+  "user_id": "1261732",
+  "user_link": "https://pikabu.ru/@sinysoidV3.0",
+  "title": "Мастера-работники",
+  "link": "https://pikabu.ru/story/masterarabotniki_9087686",
+  "comments count": "105",
+  "views count": "62212",
+  "downloads": "4",
+  "rating": "1118",
+  "creation_time": "2022-05-06T11:01:58+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "В честь 9-го мая наша УК решила покрасить подъездные двери.Я бы не удивился, если бы они просто покрасили плохо. Я бы не удивился, если бы они просто покрасили поверх старой краски. Но они покрасили поверх объявлений, наклеенных на дверь. Поверх объявлений!Написал в Добродел на них. Охуели.UPD.: Фото в комментах#comment_236586480"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Покраска",
+    "Управляющая компания",
+    "Подъезд",
+    "Мат",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9086900",
+  "user": "Wildwildworld",
+  "user_id": "2391760",
+  "user_link": "https://pikabu.ru/@Wildwildworld",
+  "title": "Бедный дедушка",
+  "link": "https://pikabu.ru/story/bednyiy_dedushka_9086900",
+  "comments count": "69",
+  "views count": "81533",
+  "downloads": "7",
+  "rating": "1112",
+  "creation_time": "2022-05-06T02:30:50+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Скриншот",
+    "Подслушано"
+  ]
+}
+{
+  "story_id": "9087561",
+  "user": "Mr.Blacksad",
+  "user_id": "4000524",
+  "user_link": "https://pikabu.ru/@Mr.Blacksad",
+  "title": "Это была не микродоза, Тимми",
+  "link": "https://pikabu.ru/story/yeto_byila_ne_mikrodoza_timmi_9087561",
+  "comments count": "26",
+  "views count": "57109",
+  "downloads": "75",
+  "rating": "1121",
+  "creation_time": "2022-05-06T10:22:29+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Динозавры",
+    "Наркотики",
+    "Юмор",
+    "Микродозинг",
+    "Картинка с текстом"
+  ]
+}
+{
+  "story_id": "9089219",
+  "user": "Ty95K22",
+  "user_id": "2813862",
+  "user_link": "https://pikabu.ru/@Ty95K22",
+  "title": "Коротко о мировом продовольственном кризисе",
+  "link": "https://pikabu.ru/story/korotko_o_mirovom_prodovolstvennom_krizise_9089219",
+  "comments count": "68",
+  "views count": "29022",
+  "downloads": "28",
+  "rating": "1197",
+  "creation_time": "2022-05-06T20:27:39+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "#comment_236639764"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Политика",
+    "Запад",
+    "Россия",
+    "Скриншот",
+    "Комментарии на Пикабу"
+  ]
+}
+{
+  "story_id": "9087286",
+  "user": "rispay",
+  "user_id": "3205990",
+  "user_link": "https://pikabu.ru/@rispay",
+  "title": "До того как стать Зеленым Гоблином",
+  "link": "https://pikabu.ru/story/do_togo_kak_stat_zelenyim_goblinom_9087286",
+  "comments count": "104",
+  "views count": "56585",
+  "downloads": "198",
+  "rating": "1116",
+  "creation_time": "2022-05-06T08:42:18+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651815604228949755_576x1024.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9087283",
+  "user": "ifbest.org",
+  "user_id": "3605966",
+  "user_link": "https://pikabu.ru/@ifbest.org",
+  "title": "Мотивация для худеющих",
+  "link": "https://pikabu.ru/story/motivatsiya_dlya_khudeyushchikh_9087283",
+  "comments count": "11",
+  "views count": "64605",
+  "downloads": "6",
+  "rating": "1127",
+  "creation_time": "2022-05-06T08:41:10+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Источник: Мотивирующие истории похудевших"
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/4/1651815627180589417.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Похудение",
+    "Мотивация",
+    "Скриншот",
+    "Мат",
+    "Reddit"
+  ]
+}
+{
+  "story_id": "9086880",
+  "user": "Eleozorro",
+  "user_id": "2267124",
+  "user_link": "https://pikabu.ru/@Eleozorro",
+  "title": "О тренингах",
+  "link": "https://pikabu.ru/story/o_treningakh_9086880",
+  "comments count": "39",
+  "views count": "65017",
+  "downloads": "63",
+  "rating": "1074",
+  "creation_time": "2022-05-06T01:57:16+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/1/165179134613563099.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Тренинг",
+    "Просветление",
+    "Юмор",
+    "Скриншот",
+    "Длиннопост",
+    "Мат"
+  ]
+}
+{
+  "story_id": "9088727",
+  "user": "Wildwildworld",
+  "user_id": "2391760",
+  "user_link": "https://pikabu.ru/@Wildwildworld",
+  "title": "‘Сегодня я снял такие облака’",
+  "link": "https://pikabu.ru/story/segodnya_ya_snyal_takie_oblaka_9088727",
+  "comments count": "33",
+  "views count": "42464",
+  "downloads": "13",
+  "rating": "1088",
+  "creation_time": "2022-05-06T17:42:35+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/2022/05/06/9/1651848091243820193.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Облака",
+    "Reddit",
+    "Небо"
+  ]
+}
+{
+  "story_id": "9087857",
+  "user": "partizan32",
+  "user_id": "1734423",
+  "user_link": "https://pikabu.ru/@partizan32",
+  "title": "Welcome to the Hotel California",
+  "link": "https://pikabu.ru/story/welcome_to_the_hotel_california_9087857",
+  "comments count": "30",
+  "views count": "43460",
+  "downloads": "166",
+  "rating": "1064",
+  "creation_time": "2022-05-06T12:02:59+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/6/1651827618158386229.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Девушки",
+    "Соски",
+    "Черно-белое фото"
+  ]
+}
+{
+  "story_id": "9086886",
+  "user": "Unlic",
+  "user_id": "984393",
+  "user_link": "https://pikabu.ru/@Unlic",
+  "title": "Ответ Saylok в «Как отличить ядовитую змею от неядовитой»",
+  "link": "https://pikabu.ru/story/otvet_saylok_v_kak_otlichit_yadovituyu_zmeyu_ot_neyadovitoy_9086886",
+  "comments count": "149",
+  "views count": "53763",
+  "downloads": "79",
+  "rating": "1032",
+  "creation_time": "2022-05-06T02:04:10+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Удивительно как можно было написать такую херню, и при этом противоречить самому себе? Стив Ирвин тебе бы по лицу дал за такой разбор и рекомендации при укусе.. А я добавлю.\n\nТс пишет:"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Змея",
+    "Ядовитые животные",
+    "Безопасность жизнедеятельности",
+    "Опасные животные",
+    "Длиннопост",
+    "Ответ на пост"
+  ]
+}
+{
+  "story_id": "9086824",
+  "user": "Nafig7",
+  "user_id": "2513654",
+  "user_link": "https://pikabu.ru/@Nafig7",
+  "title": "Дело говорит",
+  "link": "https://pikabu.ru/story/delo_govorit_9086824",
+  "comments count": "28",
+  "views count": "79935",
+  "downloads": "26",
+  "rating": "1033",
+  "creation_time": "2022-05-06T01:06:16+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Юмор",
+    "Картинка с текстом"
+  ]
+}
+{
+  "story_id": "9088005",
+  "user": "Deathman",
+  "user_id": "261241",
+  "user_link": "https://pikabu.ru/@Deathman",
+  "title": "- С вас 10000 рублей",
+  "link": "https://pikabu.ru/story/_s_vas_10000_rubley_9088005",
+  "comments count": "17",
+  "views count": "51663",
+  "downloads": "39",
+  "rating": "1049",
+  "creation_time": "2022-05-06T13:02:09+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Картинка с текстом",
+    "Психотерапия",
+    "Лежанка"
+  ]
+}
+{
+  "story_id": "9087092",
+  "user": "Exel81",
+  "user_id": "3130646",
+  "user_link": "https://pikabu.ru/@Exel81",
+  "title": "Буханка уже не та)",
+  "link": "https://pikabu.ru/story/bukhanka_uzhe_ne_ta_9087092",
+  "comments count": "76",
+  "views count": "77052",
+  "downloads": "61",
+  "rating": "1027",
+  "creation_time": "2022-05-06T06:51:35+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651809037259766714_576x1024.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Видео",
+    "Вертикальное видео",
+    "Уаз буханка",
+    "Гусеничная техника",
+    "Гусеничный вездеход"
+  ]
+}
+{
+  "story_id": "9086996",
+  "user": "Decembrisst",
+  "user_id": "2770602",
+  "user_link": "https://pikabu.ru/@Decembrisst",
+  "title": "Христос под плащаницей",
+  "link": "https://pikabu.ru/story/khristos_pod_plashchanitsey_9086996",
+  "comments count": "48",
+  "views count": "63855",
+  "downloads": "48",
+  "rating": "1003",
+  "creation_time": "2022-05-06T04:58:45+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Это мраморная скульптура Джузеппе Санмартино 1753 года. Она хранится в капелле Сан-Северо в Неаполе."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Интересное",
+    "Вокруг света",
+    "Иисус Христос",
+    "Скульптура",
+    "Познавательно",
+    "Неаполь"
+  ]
+}
+{
+  "story_id": "9088129",
+  "user": "Prostoilogin",
+  "user_id": "1999809",
+  "user_link": "https://pikabu.ru/@Prostoilogin",
+  "title": "Не в этот раз",
+  "link": "https://pikabu.ru/story/ne_v_yetot_raz_9088129",
+  "comments count": "123",
+  "views count": "59727",
+  "downloads": "47",
+  "rating": "1004",
+  "creation_time": "2022-05-06T13:48:40+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651834027253462843_460x264.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9088415",
+  "user": "WeCanFly",
+  "user_id": "1210873",
+  "user_link": "https://pikabu.ru/@WeCanFly",
+  "title": "Любовь всей жизни",
+  "link": "https://pikabu.ru/story/lyubov_vsey_zhizni_9088415",
+  "comments count": "24",
+  "views count": "39760",
+  "downloads": "13",
+  "rating": "1013",
+  "creation_time": "2022-05-06T15:30:00+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/8/1651840160162296862.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Скриншот",
+    "Комментарии",
+    "Отношения",
+    "Палата №6"
+  ]
+}
+{
+  "story_id": "9087869",
+  "user": "Nomatches",
+  "user_id": "1234997",
+  "user_link": "https://pikabu.ru/@Nomatches",
+  "title": "Про конфликт, или снова \"это другое\"",
+  "link": "https://pikabu.ru/story/pro_konflikt_ili_snova_yeto_drugoe_9087869",
+  "comments count": "183",
+  "views count": "43089",
+  "downloads": "189",
+  "rating": "988",
+  "creation_time": "2022-05-06T12:07:04+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Однажды, в одной большой-большой стране возникли проблемы.\nНа её южных границах, в соседней стране, начались беспорядки и часть северо-восточных территорий объявили независимость от этой южной страны. У них были тесные связи с большим северным соседом, один язык и одно видение будущего для себя и своих детей. Но в Южной Стране им отказывали в равноправии и возможности говорить на родном языке и вести дела с соплеменниками на севере.\n\nЮжная страна отказалась признать независимость северо-востока и начала военную операцию, обозвав проживающих там мятежниками и бунтовщиками.\n\nС севера на мятежные земли ехали добровольцы, шли поставки продовольствия и вывоз беженцев. Руководство северной страны отказывалось признать независимость территорий соседа и брать их в состав своей страны, опасаясь военных действий и ухудшения отношений со всем миром.\n\nНо, прошло восемь лет и ничего не изменилось.\nСеверо-восточные территории продолжали считать себя независимыми от своего бывшего хозяина, Южной Страны. Северная страна, видя, что ситуация не решается, решила признать территории и принять их в состав своих.\n\nТогда южный сосед перекрыл воду на северо-восточные территории и заблокировал торговлю.\n\nОбщество Северной Страны раскололось.\nКто-то кричал, что пора наказать этих проклятых южан, а кто-то, что эти северо-восточные территории нам совсем не нужны и не стоит из-за них ругаться со всем цивилизованным миром. Партии демократов и консерваторов разделились, родственники проклинали друг друга и только армия, верная долгу и приказу…\n\nПод знамёнами славного генерала Тейлора, вышла из Корпус-Кристи и перешла Рио-Гранде! Одновременно, доблестный флот США установил блокаду мексиканских портов!\n\nТак началась американо-мексиканская война 1846-1848 годов:)))\n\nВ результате которой Мексика потеряла 55% своей территории, а в США перешли территории современных штатов — Калифорния, Нью-Мексико, Аризона, Невада и Юта.\nСеверо-восточной мятежной территорией, как вы уже наверное догадались, был современный штат Техас.\nПроизошедшее привело к серьёзным реформам общества в Мексике. В частности, к отмене преследования протестантов в официально католической стране. В США история американо-мексиканской войны 1846-48 годов является предметом гордости и никто не оспаривает суверенитет современных США над Техасом и остальными южными территориями. Торговые ограничения были сняты с США всем миром где-то через три года после завершения конфликта.\n\nЕсли вам кажется, что чего-то на свете никогда не было, это уже много раз было;)\nИ если вы вдруг стыдитесь действиями своей страны сейчас, постыдитесь ещё и за действия США тогда. Считаю, даже стоит от них потребовать вернуть шесть штатов обратно Мексике. Возможно, они вас послушают, но это не точно:)))\n\nПруфы -\nИсточник"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "История",
+    "Политика",
+    "США",
+    "Россия и Украина",
+    "Двойные стандарты",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9089467",
+  "user": "AlexRadio",
+  "user_id": "1402524",
+  "user_link": "https://pikabu.ru/@AlexRadio",
+  "title": "Закрываем неделю. Вечер 06.05.2022. Экономический фронт",
+  "link": "https://pikabu.ru/story/zakryivaem_nedelyu_vecher_06052022_yekonomicheskiy_front_9089467",
+  "comments count": "378",
+  "views count": "25997",
+  "downloads": "25",
+  "rating": "1033",
+  "creation_time": "2022-05-06T22:25:53+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Новости:1. Еврокомиссия не согласовала шестой пакет санкций против России.// Очень сложно согласовать пакет санкций против России, который не стал бы пакетом санкций против ЕС. Хорошая новость.https://ria.ru/20220506/sanktsii-1787205456.html2. Нефтегазовые дополнительные доходы бюджета РФ в апреле были меньше прогноза на 133,1 миллиарда рублей.// Не удивительно. Никто не ожидал такого курса... Эта новость поддерживает мое предположение, что курс будут тянуть в коридор 70 - 75, со средним значением 73. Нейтральная новость.https://ria.ru/20220506/neft-1787183734.html3. Минпромторг утвердил список товаров из 96 пунктов для параллельного импорта в Россию. В списке находятся запчасти для иномарок, фото- и кинотехника, медицинские инструменты, часы Apple, музыкальные инструменты, приставки XBox, PlayStation, косметика и бытовая химия.// Поднятие пиратского флага зафиксировано. Хорошая новость.4. Shell продает АЗС в России. // С дисконтом. Лукойлу. Хорошая новость.https://radiosputnik.ria.ru/20220506/shell-1787159024.html5. Газпромбанк с 6 мая снова снизил процентные ставки на 3 п. п. по стандартным программам и на 0,2 п. п. по программе с господдержкой.// Пока ставка высоковата (13,9%), но тенденция верная. Хорошая новость."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Политика",
+    "Экономика",
+    "Финансы",
+    "Санкции",
+    "Рубль",
+    "Война",
+    "Длиннопост"
+  ]
+}
+{
+  "story_id": "9087646",
+  "user": "Prostoilogin",
+  "user_id": "1999809",
+  "user_link": "https://pikabu.ru/@Prostoilogin",
+  "title": "Продавец пива 100 уровня",
+  "link": "https://pikabu.ru/story/prodavets_piva_100_urovnya_9087646",
+  "comments count": "94",
+  "views count": "52058",
+  "downloads": "45",
+  "rating": "992",
+  "creation_time": "2022-05-06T10:48:14+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651823071258988413_460x778.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Азиаты",
+    "Продавец",
+    "Пиво",
+    "Видео",
+    "Вертикальное видео"
+  ]
+}
+{
+  "story_id": "9087913",
+  "user": "iterra555",
+  "user_id": "3510095",
+  "user_link": "https://pikabu.ru/@iterra555",
+  "title": "Нужна семья или кто ищет место проживания",
+  "link": "https://pikabu.ru/story/nuzhna_semya_ili_kto_ishchet_mesto_prozhivaniya_9087913",
+  "comments count": "51",
+  "views count": "53619",
+  "downloads": "10",
+  "rating": "956",
+  "creation_time": "2022-05-06T12:25:54+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Добрый день,В 15 км от Белгорода в частном доме живет отец. По определенным причинам не могу приехать в ближайшее время в Россию.Отец самостоятельный но уже в возрасте. Нужна семья или те кто ищет место проживания, можно с территории Украины. За проживание деньги не нужны, кроме оплаты коммунальных услуг. Дом трехкомнатный новый, все коммуникации подведены. Есть баня. Ухаживать за отцом не надо, просто нужны порядочные люди, семья, что бы отцу было не скучно, с кем можно было бы поговорить. Небольшая помощь по дому приветствуется.Если есть желающие можете писать в комментарии."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Семья",
+    "С проживанием",
+    "Белгород",
+    "Текст",
+    "Без рейтинга"
+  ]
+}
+{
+  "story_id": "9087830",
+  "user": "VLK.76",
+  "user_id": "3393772",
+  "user_link": "https://pikabu.ru/@VLK.76",
+  "title": "Спасение собаки",
+  "link": "https://pikabu.ru/story/spasenie_sobaki_9087830",
+  "comments count": "71",
+  "views count": "48513",
+  "downloads": "4",
+  "rating": "937",
+  "creation_time": "2022-05-06T11:53:19+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651827046265480821_576x1024.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Собака",
+    "Спасение",
+    "Видео",
+    "Вертикальное видео"
+  ]
+}
+{
+  "story_id": "9088085",
+  "user": "Mefodii",
+  "user_id": "1335524",
+  "user_link": "https://pikabu.ru/@Mefodii",
+  "title": "\"Прокремлевский информационный пузырь\" 102. Избранные места из спецоперации",
+  "link": "https://pikabu.ru/story/prokremlevskiy_informatsionnyiy_puzyir_102_izbrannyie_mesta_iz_spetsoperatsii_9088085",
+  "comments count": "158",
+  "views count": "53657",
+  "downloads": "25",
+  "rating": "914",
+  "creation_time": "2022-05-06T13:30:11+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "UPD72.1/05.05  00:00 -13:35ПОСТ МОДЕРАЦИИ О НОВЫХ ПРАВИЛАХ В ТЕГАХ \"НОВОСТИ\" И \"ПОЛИТИКА\"МОЙ СПЕЦИАЛЬНЫЙ ПОСТ С ВОПРОСАМИ И ОТВЕТОММне нужна обратная связь, я всегда за комменты, правки, уточнения и особенно - наводки.Спешу напомнить, что это НЕ обзор, НЕ аналитика, а просто тайминг новостей.Надеюсь, мне не придется опять вытаскивать дисклеймеры в пост.«Комсомольская Правда» - Базовая Ссылка, в посте (БС)«СвПресса» - Базовая ссылка 1, в посте (БС1)Абсолютно \"альтернативный\" обновляемый \"пузырь\" с ВПН и украинским языком.ОГРОМНОЕ СПАСИБО @Schastje, за наводку и обновление ссылок!Прибалтийски-альтернативный информационный пузырёк, на русском, но с ВПНОГРОМНОЕ СПАСИБО @ak747, за наводку!Итальянский информационный пузырь от Corriere della Sera без ВПНОГРОМНОЕ СПАСИБО @Albi2020, за наводкуНемецкий информационный пузырь от TagesSpiegel без ВПНОГРОМНОЕ СПАСИБО @Albi2020, за наводку!"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/165182244526441650_720x404.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Политика",
+    "Новости",
+    "Россия и Украина",
+    "Видео",
+    "Длиннопост"
+  ]
+}
+{
+  "story_id": "9087688",
+  "user": "partizan32",
+  "user_id": "1734423",
+  "user_link": "https://pikabu.ru/@partizan32",
+  "title": "Эх, покувыркаюсь",
+  "link": "https://pikabu.ru/story/yekh_pokuvyirkayus_9087688",
+  "comments count": "26",
+  "views count": "64859",
+  "downloads": "79",
+  "rating": "925",
+  "creation_time": "2022-05-06T11:02:34+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Поскольку слоны не умеют прыгать, именно так они передвигаются по пересеченной местности."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/165182404424756222_480x480.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Слоны",
+    "Слоненок",
+    "Reddit",
+    "Видео"
+  ]
+}
+{
+  "story_id": "9086891",
+  "user": "who.user",
+  "user_id": "3889058",
+  "user_link": "https://pikabu.ru/@who.user",
+  "title": "Ювелиры",
+  "link": "https://pikabu.ru/story/yuveliryi_9086891",
+  "comments count": "66",
+  "views count": "56843",
+  "downloads": "59",
+  "rating": "911",
+  "creation_time": "2022-05-06T02:14:53+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/165179229524956028_640x1138.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Спорт",
+    "Дартс",
+    "Видео",
+    "Вертикальное видео"
+  ]
+}
+{
+  "story_id": "9088301",
+  "user": "FancySunny",
+  "user_id": "3554879",
+  "user_link": "https://pikabu.ru/@FancySunny",
+  "title": "В центре Москвы, у входа в Большой театр прошла заукраинская акция против спецоперации на Украине",
+  "link": "https://pikabu.ru/story/v_tsentre_moskvyi_u_vkhoda_v_bolshoy_teatr_proshla_zaukrainskaya_aktsiya_protiv_spetsoperatsii_na_ukraine_9088301",
+  "comments count": "561",
+  "views count": "40287",
+  "downloads": "36",
+  "rating": "909",
+  "creation_time": "2022-05-06T14:55:48+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9087225",
+  "user": "sobaken888",
+  "user_id": "3243697",
+  "user_link": "https://pikabu.ru/@sobaken888",
+  "title": "Роль",
+  "link": "https://pikabu.ru/story/rol_9087225",
+  "comments count": "78",
+  "views count": "43885",
+  "downloads": "27",
+  "rating": "906",
+  "creation_time": "2022-05-06T08:14:40+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/4/165181387519313242.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Скриншот",
+    "Фильмы",
+    "Роли",
+    "Тайка Вайтити",
+    "Геи",
+    "Сэм Рокуэлл",
+    "Адольф Гитлер",
+    "Twitter"
+  ]
+}
+{
+  "story_id": "9087911",
+  "user": "Crazy.MF",
+  "user_id": "2483445",
+  "user_link": "https://pikabu.ru/@Crazy.MF",
+  "title": "А тем, кто ложится спать - спокойного сна",
+  "link": "https://pikabu.ru/story/a_tem_kto_lozhitsya_spat__spokoynogo_sna_9087911",
+  "comments count": "37",
+  "views count": "42441",
+  "downloads": "118",
+  "rating": "923",
+  "creation_time": "2022-05-06T12:25:02+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651828944233784565_1088x1920.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Сон",
+    "Кошмар",
+    "Вертикальное видео",
+    "TikTok",
+    "Видео"
+  ]
+}
+{
+  "story_id": "9088104",
+  "user": "Hardcore1988",
+  "user_id": "754287",
+  "user_link": "https://pikabu.ru/@Hardcore1988",
+  "title": "Доброе утро",
+  "link": "https://pikabu.ru/story/dobroe_utro_9088104",
+  "comments count": "24",
+  "views count": "40485",
+  "downloads": "25",
+  "rating": "885",
+  "creation_time": "2022-05-06T13:39:59+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/7/1651833433193992097.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Юмор",
+    "Скриншот",
+    "Цыгане",
+    "Будильник"
+  ]
+}
+{
+  "story_id": "9089049",
+  "user": "ShurickHolmes",
+  "user_id": "2932314",
+  "user_link": "https://pikabu.ru/@ShurickHolmes",
+  "title": "Сказки на ночь",
+  "link": "https://pikabu.ru/story/skazki_na_noch_9089049",
+  "comments count": "79",
+  "views count": "31510",
+  "downloads": "70",
+  "rating": "885",
+  "creation_time": "2022-05-06T19:26:24+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/2022/05/06/10/1651854309176875209.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Король и Шут",
+    "Картинка с текстом",
+    "Детские сказки"
+  ]
+}
+{
+  "story_id": "9087109",
+  "user": "comcom",
+  "user_id": "938779",
+  "user_link": "https://pikabu.ru/@comcom",
+  "title": "Трагичное",
+  "link": "https://pikabu.ru/story/tragichnoe_9087109",
+  "comments count": "33",
+  "views count": "53700",
+  "downloads": "33",
+  "rating": "858",
+  "creation_time": "2022-05-06T07:02:53+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Весенняя прогулка с ветерком\nЧермет. Колючая ограда.\nСказал хозяин: не боись,\nИ будь как дома"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Вижу рифму",
+    "Чермет",
+    "Авто",
+    "Лада",
+    "Юмор"
+  ]
+}
+{
+  "story_id": "9088266",
+  "user": "Kaljaka",
+  "user_id": "3237976",
+  "user_link": "https://pikabu.ru/@Kaljaka",
+  "title": "Бывает же",
+  "link": "https://pikabu.ru/story/byivaet_zhe_9088266",
+  "comments count": "123",
+  "views count": "35236",
+  "downloads": "7",
+  "rating": "876",
+  "creation_time": "2022-05-06T14:43:15+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Вконтакте",
+    "Проктолог",
+    "Мастурбация",
+    "Случайность",
+    "Провал",
+    "Скриншот"
+  ]
+}
+{
+  "story_id": "9086736",
+  "user": "Kousotsu",
+  "user_id": "996627",
+  "user_link": "https://pikabu.ru/@Kousotsu",
+  "title": "Кажется контейнер ехал к Илону",
+  "link": "https://pikabu.ru/story/kazhetsya_konteyner_ekhal_k_ilonu_9086736",
+  "comments count": "42",
+  "views count": "55275",
+  "downloads": "9",
+  "rating": "834",
+  "creation_time": "2022-05-06T00:11:04+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "пруф"
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Илон Маск",
+    "Coca-Cola",
+    "Наркотики",
+    "РИА Новости"
+  ]
+}
+{
+  "story_id": "9087572",
+  "user": "mr.zeppelin",
+  "user_id": "1171545",
+  "user_link": "https://pikabu.ru/@mr.zeppelin",
+  "title": "Генпрокуратура Украины вызвала на допрос Володина, Матвиенко, Медведева и Шойгу",
+  "link": "https://pikabu.ru/story/genprokuratura_ukrainyi_vyizvala_na_dopros_volodina_matvienko_medvedeva_i_shoygu_9087572",
+  "comments count": "75",
+  "views count": "56167",
+  "downloads": "9",
+  "rating": "849",
+  "creation_time": "2022-05-06T10:26:11+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "если мне не изменяет память, они уже вроде как вызывали Кужугетовича на допрос. просьба к властям украины, дайте GPS координаты куда прийти то.пруфыhttps://www.gazeta.ru/politics/news/2022/05/06/17692604.shtm...https://tass.ru/mezhdunarodnaya-panorama/14560427?utm_source..."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Украина",
+    "Россия и Украина",
+    "Допрос",
+    "Сергей Шойгу",
+    "Политика",
+    "Без рейтинга",
+    "Калибр",
+    "Калибровка",
+    "Степан Бандера",
+    "Спецоперация",
+    "Нацизм",
+    "ЛНР",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9086831",
+  "user": "vese1",
+  "user_id": "877922",
+  "user_link": "https://pikabu.ru/@vese1",
+  "title": "Вархаммер40к для чайников. Фракции: Слаанеш",
+  "link": "https://pikabu.ru/story/varkhammer40k_dlya_chaynikov_fraktsii_slaanesh_9086831",
+  "comments count": "107",
+  "views count": "40024",
+  "downloads": "144",
+  "rating": "826",
+  "creation_time": "2022-05-06T01:11:05+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Здравствуйте, дорогие курсанты. Сегодня немного про второго из четвёрки богов хаоса - Слаанеш. Доставайте дилдо, и усаживайтесь. А теперь расстреляйте того, что реально достал в аудитории."
+    },
+    {
+      "images": [
+        "https://cs14.pikabu.ru/post_img/big/2022/05/06/0/1651786527158933896.png"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "[моё]",
+    "Warhammer 40k",
+    "Chaos Space marines",
+    "Слаанеш",
+    "Chaos Daemons",
+    "Мат",
+    "Длиннопост"
+  ]
+}
+{
+  "story_id": "9088462",
+  "user": "Deathman",
+  "user_id": "261241",
+  "user_link": "https://pikabu.ru/@Deathman",
+  "title": "Так дети, кто мой любимый ученик?",
+  "link": "https://pikabu.ru/story/tak_deti_kto_moy_lyubimyiy_uchenik_9088462",
+  "comments count": "59",
+  "views count": "39821",
+  "downloads": "52",
+  "rating": "836",
+  "creation_time": "2022-05-06T15:48:52+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651841227227488040_612x1080.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
+{
+  "story_id": "9089265",
+  "user": "FedorPetin",
+  "user_id": "915262",
+  "user_link": "https://pikabu.ru/@FedorPetin",
+  "title": "Пойдём в поход - говорили они.... Будет весело - говорили они...",
+  "link": "https://pikabu.ru/story/poydyom_v_pokhod__govorili_oni_budet_veselo__govorili_oni_9089265",
+  "comments count": "81",
+  "views count": "29798",
+  "downloads": "24",
+  "rating": "855",
+  "creation_time": "2022-05-06T20:47:24+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/10/1651859194211123578.png"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Палатка",
+    "Природа",
+    "Погода",
+    "Поход",
+    "Дождь"
+  ]
+}
+{
+  "story_id": "9087796",
+  "user": "Markushonok",
+  "user_id": "2281676",
+  "user_link": "https://pikabu.ru/@Markushonok",
+  "title": "Ответ на пост «Как сделать 100500% прибыли на чужом горе»",
+  "link": "https://pikabu.ru/story/otvet_na_post_kak_sdelat_100500_pribyili_na_chuzhom_gore_9087796",
+  "comments count": "7",
+  "views count": "33125",
+  "downloads": "12",
+  "rating": "821",
+  "creation_time": "2022-05-06T11:43:21+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": [
+        "https://cs12.pikabu.ru/post_img/big/2022/05/06/6/1651826538127860343.jpg"
+      ]
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Кремация",
+    "Похороны",
+    "Жадность",
+    "Урна",
+    "Негатив",
+    "Мемы",
+    "Поцелуй",
+    "Ответ на пост"
+  ]
+}
+{
+  "story_id": "9086817",
+  "user": "STLee",
+  "user_id": "2560162",
+  "user_link": "https://pikabu.ru/@STLee",
+  "title": "Эх, красота-то какая! Лепота",
+  "link": "https://pikabu.ru/story/yekh_krasotato_kakaya_lepota_9086817",
+  "comments count": "30",
+  "views count": "54973",
+  "downloads": "163",
+  "rating": "801",
+  "creation_time": "2022-05-06T01:01:14+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/05/1651753459269727306_720x1280.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Вертикальное видео",
+    "Кристаллы",
+    "Красота",
+    "Видео",
+    "Повтор"
+  ]
+}
+{
+  "story_id": "9086884",
+  "user": "who.user",
+  "user_id": "3889058",
+  "user_link": "https://pikabu.ru/@who.user",
+  "title": "Правильный ответ",
+  "link": "https://pikabu.ru/story/pravilnyiy_otvet_9086884",
+  "comments count": "49",
+  "views count": "51962",
+  "downloads": "43",
+  "rating": "795",
+  "creation_time": "2022-05-06T02:01:18+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651791475280912001_576x558.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Спорт",
+    "Бокс",
+    "Нокаут",
+    "Видео",
+    "TikTok"
+  ]
+}
+{
+  "story_id": "9086932",
+  "user": "badkarmagoway",
+  "user_id": "767043",
+  "user_link": "https://pikabu.ru/@badkarmagoway",
+  "title": "Ветеринарные мемы",
+  "link": "https://pikabu.ru/story/veterinarnyie_memyi_9086932",
+  "comments count": "26",
+  "views count": "24280",
+  "downloads": "61",
+  "rating": "808",
+  "creation_time": "2022-05-06T03:25:41+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Ветеринария",
+    "Животные",
+    "Собака",
+    "Кот",
+    "Мемы",
+    "Длиннопост"
+  ]
+}
+{
+  "story_id": "9087325",
+  "user": "Mr.Older56",
+  "user_id": "2192226",
+  "user_link": "https://pikabu.ru/@Mr.Older56",
+  "title": "Рецепт",
+  "link": "https://pikabu.ru/story/retsept_9087325",
+  "comments count": "21",
+  "views count": "38693",
+  "downloads": "11",
+  "rating": "793",
+  "creation_time": "2022-05-06T08:54:54+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Кастрация",
+    "Бараны",
+    "Рецепт",
+    "Деликатес",
+    "Комментарии на Пикабу",
+    "Скриншот",
+    "Длиннопост"
+  ]
+}
+{
+  "story_id": "9087518",
+  "user": "Raspeluha",
+  "user_id": "3056092",
+  "user_link": "https://pikabu.ru/@Raspeluha",
+  "title": "Ответ на пост «Ожидание и реальность»",
+  "link": "https://pikabu.ru/story/otvet_na_post_ozhidanie_i_realnost_9087518",
+  "comments count": "57",
+  "views count": "48553",
+  "downloads": "11",
+  "rating": "805",
+  "creation_time": "2022-05-06T10:07:32+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": "Внучок, ну, может, грядочку петрушки и малинку вдоль забора?\nНе успел оглянуться КАРТОХА ТРИ ГРУШИ ЛУК ТЕПЛИЦЫ С ОГУРЦАМИ И БАКЛАЖАНАМИ и бабушка так сиротливо «ох, капустке места не нашлось»\n\nВспоминается шутка\n-знаешь, надоела мне к &уям тещина дача, я осенью приехал и цистерну соляры туда бахнул. Уже третий год ничего не растёт.\n-в этой ситуации смысл фразы про расход соляры на сотку заиграл новыми красками."
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Дача",
+    "Отдых",
+    "Солярка",
+    "Теща",
+    "Ответ на пост",
+    "Текст"
+  ]
+}
+{
+  "story_id": "9088249",
+  "user": "Eesteria",
+  "user_id": "3259733",
+  "user_link": "https://pikabu.ru/@Eesteria",
+  "title": "Я в общем-то таким же косплеем по пятницам занимаюсь",
+  "link": "https://pikabu.ru/story/ya_v_obshchemto_takim_zhe_kospleem_po_pyatnitsam_zanimayus_9088249",
+  "comments count": "54",
+  "views count": "30966",
+  "downloads": "162",
+  "rating": "816",
+  "creation_time": "2022-05-06T14:37:55+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "Misato Katsuragi",
+    "Evangelion",
+    "Косплей",
+    "Аниме"
+  ]
+}
+{
+  "story_id": "9087032",
+  "user": "Exel81",
+  "user_id": "3130646",
+  "user_link": "https://pikabu.ru/@Exel81",
+  "title": "Прыжок)",
+  "link": "https://pikabu.ru/story/pryizhok_9087032",
+  "comments count": "81",
+  "views count": "53639",
+  "downloads": "45",
+  "rating": "780",
+  "creation_time": "2022-05-06T05:48:03+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": [
+        "https://cs14.pikabu.ru/video/2022/05/06/1651805225292421565_352x640.webm"
+      ]
+    }
+  ],
+  "tags": [
+    "Видео",
+    "Вертикальное видео",
+    "Прыжок с парашютом",
+    "Самолет",
+    "Экстрим"
+  ]
+}
+{
+  "story_id": "9087556",
+  "user": "Ruti",
+  "user_id": "1709487",
+  "user_link": "https://pikabu.ru/@Ruti",
+  "title": "\"Кем себя возомнил?\" Турки возмутились словами Зеленского о россиянах",
+  "link": "https://pikabu.ru/story/kem_sebya_vozomnil_turki_vozmutilis_slovami_zelenskogo_o_rossiyanakh_9087556",
+  "comments count": "87",
+  "views count": "33508",
+  "downloads": "23",
+  "rating": "751",
+  "creation_time": "2022-05-06T10:20:39+03:00",
+  "author": false,
+  "content": [
+    {
+      "text": ""
+    },
+    {
+      "images": []
+    },
+    {
+      "videos": []
+    }
+  ],
+  "tags": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}
